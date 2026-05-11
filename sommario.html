@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🏃 实战小抄 — 意大利语Bar</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #f5f5f5; padding: 20px; padding-bottom: 80px; }
+    .back-btn { position: fixed; top: 20px; left: 20px; background: white; border: none; padding: 10px 20px; border-radius: 25px; font-size: 14px; color: #666; cursor: pointer; box-shadow: 0 2px 10px rgba(0,0,0,0.1); text-decoration: none; z-index: 100; transition: all 0.3s; }
+    .back-btn:hover { background: #9c27b0; color: white; }
+    h1 { text-align: center; color: #1a1a2e; margin: 30px 0 20px; font-size: 1.8em; }
+    .subtitle { text-align: center; color: #666; margin-bottom: 30px; }
+    .section { background: white; border-radius: 15px; padding: 25px; margin-bottom: 20px; box-shadow: 0 2px 10px rgba(0,0,0,0.05); }
+    .section-title { color: #9c27b0; font-size: 1.3em; margin-bottom: 15px; display: flex; align-items: center; gap: 10px; }
+    .medal { font-size: 2em; margin-right: 10px; }
+    .three-招 { background: linear-gradient(135deg, #9c27b0, #e91e8c); color: white; border-radius: 15px; padding: 25px; margin-bottom: 20px; }
+    .three-招 h2 { color: white; margin-bottom: 15px; }
+    .three-招 p { margin: 8px 0; font-size: 1.1em; line-height: 1.6; }
+    .three-招 code { background: rgba(255,255,255,0.2); padding: 3px 8px; border-radius: 4px; }
+    .table { width: 100%; border-collapse: collapse; font-size: 0.95em; }
+    .table th { background: #f0f0f0; text-align: left; padding: 10px; border-bottom: 2px solid #ddd; }
+    .table td { padding: 10px; border-bottom: 1px solid #eee; }
+    .table td:first-child { color: #e91e8c; font-weight: 600; }
+    .time { background: #fff3e0; padding: 15px; border-radius: 8px; margin-top: 15px; }
+    .time h4 { color: #e65100; margin-bottom: 10px; }
+    .time-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px; }
+    .time-item { background: #fff; padding: 10px; border-radius: 8px; }
+    .time-item strong { color: #9c27b0; }
+  </style>
+</head>
+<body>
+  <a href="index.html" class="back-btn">← 返回首页</a>
+  <h1>🏃 实战小抄</h1>
+  <p class="subtitle">速记三连招 + 咖啡时间表</p>
+
+  <div class="three-招">
+    <h2>🎯 去意大利bar上班，记住这三段就够了！</h2>
+    
+    <div style="background:rgba(255,255,255,0.1); padding:15px; border-radius:10px; margin-bottom:15px;">
+      <h3 style="margin-bottom:10px;"><span class="medal">🥇</span>第一招：顾客来了怎么说？</h3>
+      <p><code>Buongiorno!</code> → 早上好！</p>
+      <p><code>Desidera?</code> → 您要什么？</p>
+      <p><code>Alto o basso?</code> → 淡的还是浓的？</p>
+      <p><code>Con zucchero?</code> → 加糖吗？</p>
+      <p><code>Ecco il suo caffè!</code> → 这是您的咖啡！</p>
+      <p><code>Buon caffè!</code> → 享用！</p>
+    </div>
+
+    <div style="background:rgba(255,255,255,0.1); padding:15px; border-radius:10px; margin-bottom:15px;">
+      <h3 style="margin-bottom:10px;"><span class="medal">🥈</span>第二招：收银怎么说？</h3>
+      <p><code>Totale [X] euro</code> → 一共X欧</p>
+      <p><code>Ecco il resto</code> → 这是找零</p>
+      <p><code>Ecco lo scontrino</code> → 这是小票</p>
+      <p><code>Grazie, arrivederci!</code> → 谢谢，再见！</p>
+      <p><code>Buona giornata!</code> → 祝您愉快！</p>
+    </div>
+
+    <div style="background:rgba(255,255,255,0.1); padding:15px; border-radius:10px;">
+      <h3 style="margin-bottom:10px;"><span class="medal">🥉</span>第三招：听懂顾客说啥</h3>
+      <table style="width:100%; color:white; font-size:0.95em;">
+        <tr><th>顾客说</th><th>中文</th><th>你回</th></tr>
+        <tr><td>Un caffè</td><td>一杯浓缩</td><td>Subito! Alto o basso?</td></tr>
+        <tr><td>Un cappuccino</td><td>一杯卡布</td><td>Subito!</td></tr>
+        <tr><td>Quanto costa?</td><td>多少钱？</td><td>Totale X euro</td></tr>
+        <tr><td>Il conto, per favore</td><td>买单</td><td>Ecco il conto</td></tr>
+        <tr><td>Offro io</td><td>我请客</td><td>D'accordo!</td></tr>
+        <tr><td>Da portare via</td><td>外带</td><td>Certo! Ecco!</td></tr>
+      </table>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2 class="section-title">⏰ 意大利人的咖啡时间表</h2>
+    <div class="time-grid">
+      <div class="time-item"><strong>🌅 07:00-08:00</strong><br>Cappuccino + Cornetto<br>早餐黄金搭档</div>
+      <div class="time-item"><strong>🏢 09:00-10:00</strong><br>Caffè<br>上班提神</div>
+      <div class="time-item"><strong>☕ 10:30-11:00</strong><br>Caffè<br>⛔ 11点后不点cappuccino！</div>
+      <div class="time-item"><strong>☕ 12:00-13:00</strong><br>Caffè<br>饭后消化</div>
+      <div class="time-item"><strong>☕ 15:00-16:00</strong><br>Caffè<br>下午提神</div>
+      <div class="time-item"><strong>🍸 18:00-20:00</strong><br>Aperitivo<br>开胃酒时间！</div>
+      <div class="time-item"><strong>🍝 20:00+</strong><br>Caffè / Corretto<br>晚餐后咖啡</div>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2 class="section-title">📦 咖啡浓度速查图</h2>
+    <pre style="background:#f8f8f8; padding:20px; border-radius:8px; font-family:monospace; line-height:1.8;">
+                  ☕ CAFFÈ 浓缩咖啡
+                      │
+                ┌─────┼─────┐
+              RISTRETTO  │   LUNGO
+             超浓/量少   │   淡/量多
+                │        │       │
+           更少的水    标准量    两倍水
+           更浓更苦            味道更淡
+
+  DOPPIO 双份 = 两份浓缩
+  NORMALE 正常浓度
+  ALTO 高杯（偏淡） / BASSO 矮杯（偏浓）
+    </pre>
+  </div>
+
+  <div class="section">
+    <h2 class="section-title">🧠 五词走天下</h2>
+    <p style="font-size:1.2em; text-align:center; margin:20px 0;">
+      <span style="background:#e91e8c; color:white; padding:5px 15px; border-radius:20px; margin:0 5px;">Sì</span>
+      <span style="background:#4caf50; color:white; padding:5px 15px; border-radius:20px; margin:0 5px;">No</span>
+      <span style="background:#ff9800; color:white; padding:5px 15px; border-radius:20px; margin:0 5px;">Subito</span>
+      <span style="background:#2196f3; color:white; padding:5px 15px; border-radius:20px; margin:0 5px;">Ecco</span>
+      <span style="background:#9c27b0; color:white; padding:5px 15px; border-radius:20px; margin:0 5px;">Prego</span>
+    </p>
+    <p style="text-align:center; color:#666;">这五个词走天下！</p>
+  </div>
+</body>
+</html>

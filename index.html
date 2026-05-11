@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🇮🇹 意大利语Bar服务员 — 学习网站</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+      min-height: 100vh;
+      padding: 40px 20px;
+    }
+    .header {
+      text-align: center;
+      margin-bottom: 50px;
+    }
+    .header h1 {
+      color: #fff;
+      font-size: 2.5em;
+      margin-bottom: 15px;
+    }
+    .header p {
+      color: #a0a0a0;
+      font-size: 1.1em;
+    }
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 25px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    .card {
+      background: rgba(255,255,255,0.95);
+      border-radius: 20px;
+      padding: 30px;
+      text-decoration: none;
+      color: #333;
+      transition: all 0.3s;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+    }
+    .card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 15px 40px rgba(0,0,0,0.3);
+    }
+    .card-icon { font-size: 3em; margin-bottom: 15px; }
+    .card h2 { font-size: 1.3em; margin-bottom: 10px; color: #1a1a2e; }
+    .card p { color: #666; font-size: 0.95em; line-height: 1.5; }
+    .card:nth-child(1) { border-top: 4px solid #e91e8c; }
+    .card:nth-child(2) { border-top: 4px solid #ff9800; }
+    .card:nth-child(3) { border-top: 4px solid #4caf50; }
+    .card:nth-child(4) { border-top: 4px solid #2196f3; }
+    .card:nth-child(5) { border-top: 4px solid #9c27b0; }
+    .card:nth-child(6) { border-top: 4px solid #f44336; }
+    .card:nth-child(7) { border-top: 4px solid #009688; }
+    .card:nth-child(8) { border-top: 4px solid #ffeb3b; }
+    .footer {
+      text-align: center;
+      margin-top: 50px;
+      color: #666;
+      font-size: 0.9em;
+    }
+    @media (max-width: 600px) {
+      .header h1 { font-size: 1.8em; }
+      .cards { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>🇮🇹 意大利语Bar服务员</h1>
+    <p>专为刚来意大利的华人咖啡师/吧台服务员打造</p>
+  </div>
+  <div class="cards">
+    <a href="vocabolario.html" class="card">
+      <div class="card-icon">☕</div>
+      <h2>核心词汇速查</h2>
+      <p>咖啡系列、牛奶饮品、早餐糕点、吧台工具... 随用随查！</p>
+    </a>
+    <a href="dialoghi.html" class="card">
+      <div class="card-icon">💬</div>
+      <h2>场景对话</h2>
+      <p>10个实战场景：点单、付款、特殊要求、投诉处理...</p>
+    </a>
+    <a href="grammatica.html" class="card">
+      <div class="card-icon">📚</div>
+      <h2>语法速成</h2>
+      <p>动词变位、疑问句、介词、时间表达 — 精简实用版</p>
+    </a>
+    <a href="frasi.html" class="card">
+      <div class="card-icon">🎯</div>
+      <h2>万能句型</h2>
+      <p>服务全流程必备句型，开口就能用！</p>
+    </a>
+    <a href="sommario.html" class="card">
+      <div class="card-icon">🏃</div>
+      <h2>实战小抄</h2>
+      <p>三连招速记 + 文化常识 + 价格参考</p>
+    </a>
+    <a href="cultura.html" class="card">
+      <div class="card-icon">📖</div>
+      <h2>文化常识</h2>
+      <p>意大利咖啡文化、规矩禁忌、地区特色</p>
+    </a>
+    <a href="prezzi.html" class="card">
+      <div class="card-icon">💰</div>
+      <h2>价格参考</h2>
+      <p>站吧台vs坐桌边，意大利各地区价格对比</p>
+    </a>
+    <a href="indice.html" class="card">
+      <div class="card-icon">📋</div>
+      <h2>总览目录</h2>
+      <p>网站全部内容索引，快速定位</p>
+    </a>
+  </div>
+  <div class="footer">
+    <p>🎯 记住：咖啡师 ☕ 说的句子要背！顾客 👩 说的听懂就行！</p>
+  </div>
+</body>
+</html>

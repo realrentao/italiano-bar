@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>💬 场景对话 — 意大利语Bar</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #f5f5f5; padding: 20px; padding-bottom: 80px; }
+    .back-btn { position: fixed; top: 20px; left: 20px; background: white; border: none; padding: 10px 20px; border-radius: 25px; font-size: 14px; color: #666; cursor: pointer; box-shadow: 0 2px 10px rgba(0,0,0,0.1); text-decoration: none; z-index: 100; transition: all 0.3s; }
+    .back-btn:hover { background: #ff9800; color: white; }
+    h1 { text-align: center; color: #1a1a2e; margin: 30px 0 20px; font-size: 1.8em; }
+    .subtitle { text-align: center; color: #666; margin-bottom: 30px; }
+    .legend { text-align: center; margin-bottom: 30px; }
+    .legend span { margin: 0 10px; }
+    .legend .customer { color: #2196f3; }
+    .legend .barista { color: #e91e8c; }
+    .scene { background: white; border-radius: 15px; padding: 25px; margin-bottom: 25px; box-shadow: 0 2px 10px rgba(0,0,0,0.05); }
+    .scene-title { color: #ff9800; font-size: 1.3em; margin-bottom: 15px; display: flex; align-items: center; gap: 10px; }
+    .dialogue { font-size: 0.95em; line-height: 1.8; }
+    .customer { color: #2196f3; font-weight: 500; }
+    .barista { color: #e91e8c; font-weight: 500; }
+    .note { background: #fff3e0; padding: 10px 15px; border-radius: 8px; margin-top: 15px; font-size: 0.9em; color: #666; }
+    .note strong { color: #e65100; }
+    .grammar { background: #e3f2fd; padding: 15px; border-radius: 8px; margin-top: 15px; font-size: 0.9em; }
+    .grammar h4 { color: #1565c0; margin-bottom: 8px; }
+    .grammar code { background: #e0e0e0; padding: 2px 6px; border-radius: 4px; }
+    .grammar strong { color: #e91e8c; }
+  </style>
+</head>
+<body>
+  <a href="index.html" class="back-btn">← 返回首页</a>
+  <h1>💬 场景对话</h1>
+  <p class="subtitle">10个实战场景，咖啡师必背标 ☕ 的句子！</p>
+  <div class="legend">
+    <span class="customer">👩 顾客说的（听懂就行）</span>
+    <span class="barista">☕ 你说的（要背！）</span>
+  </div>
+
+  <div class="scene">
+    <h2 class="scene-title">📍 场景一：吧台点咖啡（标准流程）</h2>
+    <div class="note">
+      <strong>⚠️ 意大利 bar 核心流程：</strong>顾客先到收银台付款 → 拿小票 → 到吧台把小票给你 → 你做咖啡递给ta → 顾客站吧台两口喝完走人
+    </div>
+    <div class="dialogue">
+      <p>👩 Buongiorno!</p>
+      <p class="barista">☕ <strong>Buongiorno!</strong> （早上好！）</p>
+      <p>👩 Un caffè, per favore. Quanto costa?</p>
+      <p class="barista">☕ <strong>1 euro.</strong> （一欧）</p>
+      <p>👩 Ecco 1 euro.</p>
+      <p class="barista">☕ <strong>Ecco lo scontrino. Lo dia al barista al banco.</strong> （这是小票，您去吧台给咖啡师）</p>
+      <p>👩 *(递小票)* Ecco lo scontrino. Un caffè, per favore.</p>
+      <p class="barista">☕ <strong>Subito! Lo vuole alto o basso?</strong> （马上！您要淡点还是浓点？）</p>
+      <p>👩 Normale, grazie.</p>
+      <p class="barista">☕ <strong>Ecco il suo caffè. Buon caffè!</strong> （您的咖啡。享用！）</p>
+      <p>👩 Grazie!</p>
+      <p class="barista">☕ <strong>Prego!</strong> （不客气！）</p>
+    </div>
+    <div class="grammar">
+      <h4>⚡语法拆解：Lo vuole alto o basso?（您要淡的还是浓的？）</h4>
+      <p><code>Lo</code> = 它（指咖啡）<code>vuole</code> = 您要<code>alto</code> = 高的<code>o</code> = 或<code>basso</code> = 矮的</p>
+      <p>💡 <strong>记忆口诀：</strong>Alto = 高杯淡，Basso = 矮杯浓，不会就做 Normale！</p>
+    </div>
+  </div>
+
+  <div class="scene">
+    <h2 class="scene-title">📍 场景二：多人一起点单</h2>
+    <div class="dialogue">
+      <p>👩 Per noi: un caffè, un cappuccino e una spremuta.（我们要：一杯浓缩、一杯卡布、一杯橙汁）</p>
+      <p class="barista">☕ <strong>Totale 4,50 euro.</strong> （一共4.5欧）</p>
+      <p>👩 Ecco 5 euro.</p>
+      <p class="barista">☕ <strong>Ecco il resto, 50 centesimi. E lo scontrino.</strong> （找您50分。还有小票）</p>
+      <p>👩 *(递小票)* Ecco.</p>
+      <p class="barista">☕ <strong>Il cappuccino per chi?</strong> （卡布奇诺是谁的？）</p>
+      <p>👩 Per me il cappuccino, per lui il caffè.（我的是卡布，他的是浓缩）</p>
+      <p class="barista">☕ <strong>Ecco: cappuccino, caffè e spremuta. Buona colazione!</strong> （给您：卡布、浓缩和橙汁。早餐愉快！）</p>
+    </div>
+    <div class="grammar">
+      <h4>⚡语法：Per chi?（给谁的？）</h4>
+      <p><code>Per me</code> = 给我<code>Per lui</code> = 给他<code>Per lei</code> = 给她<code>Per noi</code> = 给 我们<code>Per loro</code> = 给他们</p>
+      <p>💡 <strong>记忆口诀：</strong>多人来点单，先问 <strong>Per chi?</strong> 然后一一对应！</p>
+    </div>
+  </div>
+
+  <div class="scene">
+    <h2 class="scene-title">📍 场景三：坐桌边点单</h2>
+    <div class="dialogue">
+      <p>👨 Possiamo sederci al tavolo?（我们可以坐桌边吗？）</p>
+      <p class="barista">☕ <strong>Certo! Si accomodi. Vengo subito a prendere l'ordine.</strong> （当然！请坐。我马上来点单）</p>
+      <p class="barista">☕ <strong>Allora, cosa desiderano?</strong> （那么，两位想要什么？）</p>
+      <p>👨 Per me un caffè normale. E per lei?（我要一杯浓缩。她呢？）</p>
+      <p>👩 Io un cappuccino e un cornetto al cioccolato.（我要一杯卡布和一个巧克力牛角包）</p>
+      <p class="barista">☕ <strong>Va bene. Un caffè, un cappuccino e un cornetto al cioccolato. Arrivo subito!</strong></p>
+      <p class="barista">☕ <strong>Ecco a voi. Buona colazione!</strong> （给您们。早餐愉快！）</p>
+      <p>👨 Il conto, per favore.（买单）</p>
+      <p class="barista">☕ <strong>Ecco il conto: totale 7,50 euro.</strong> （这是账单：一共7.5欧）</p>
+    </div>
+  </div>
+
+  <div class="scene">
+    <h2 class="scene-title">📍 场景四：付款场景</h2>
+    <div class="dialogue">
+      <p><strong>💰 现金付款</strong></p>
+      <p>👩 Quanto viene?（多少钱？）</p>
+      <p class="barista">☕ <strong>Totale 3,50 euro.</strong> （一共3.5欧）</p>
+      <p>👩 Ecco 5 euro.</p>
+      <p class="barista">☕ <strong>Ecco il resto di 1,50 euro. E lo scontrino.</strong> （找您1.5欧。还有小票）</p>
+      <p>👩 Tenga il resto.（不用找了）</p>
+      <p class="barista">☕ <strong>Grazie, molto gentile!</strong> （谢谢，您真大方！）</p>
+    </div>
+    <div class="dialogue" style="margin-top:20px;">
+      <p><strong>💳 刷卡付款</strong></p>
+      <p>👩 Pago con la carta.（我刷卡）</p>
+      <p class="barista">☕ <strong>Certo! Senza contatto?</strong> （当然！感应支付吗？）</p>
+      <p>👩 Sì, grazie.</p>
+      <p class="barista">☕ <strong>Fatto! Ecco lo scontrino. Buona giornata!</strong> （好了！祝您愉快！）</p>
+    </div>
+  </div>
+
+  <div class="scene">
+    <h2 class="scene-title">📍 场景五：常客来了</h2>
+    <div class="dialogue">
+      <p>👩 Buongiorno!</p>
+      <p class="barista">☕ <strong>Buongiorno! Il solito?</strong> （早上好！老样子？）</p>
+      <p>👩 Sì, il solito, grazie!</p>
+      <p class="barista">☕ <strong>Subito fatto!</strong> （马上好！）</p>
+      <p class="barista">☕ <strong>Ecco il tuo caffè. Come sempre!</strong> （给你咖啡。和往常一样！）</p>
+    </div>
+    <div class="note">
+      <strong>💡 Il solito = 老样子</strong><br>
+      看到熟客就说 "Il solito?" 他们会超开心你记得！
+    </div>
+  </div>
+
+  <div class="scene">
+    <h2 class="scene-title">📍 场景六：顾客有特殊要求</h2>
+    <table style="width:100%; font-size:0.9em; border-collapse:collapse; margin-top:10px;">
+      <tr style="background:#f0f0f0;"><th style="padding:8px; text-align:left;">顾客说</th><th style="padding:8px;">中文</th><th style="padding:8px; text-align:left;">你回</th></tr>
+      <tr><td style="padding:8px;">Con zucchero?</td><td style="padding:8px;">加糖吗？</td><td style="padding:8px;"><span class="barista">Certo, un cucchiaino!</span></td></tr>
+      <tr><td style="padding:8px;">Senza zucchero</td><td style="padding:8px;">不加糖</td><td style="padding:8px;"><span class="barista">Certo, senza zucchero!</span></td></tr>
+      <tr><td style="padding:8px;">Con latte di soia</td><td style="padding:8px;">要豆奶</td><td style="padding:8px;"><span class="barista">Certo, abbiamo latte di soia!</span></td></tr>
+      <tr><td style="padding:8px;">Un po' più caldo</td><td style="padding:8px;">再热一点</td><td style="padding:8px;"><span class="barista">Certo, lo rifaccio!</span></td></tr>
+      <tr><td style="padding:8px;">Un caffè decaffeinato</td><td style="padding:8px;">要无因的</td><td style="padding:8px;"><span class="barista">Certo! Deca?</span></td></tr>
+    </table>
+  </div>
+
+  <div class="scene">
+    <h2 class="scene-title">📍 场景七：顾客请客</h2>
+    <div class="dialogue">
+      <p>👩 <strong>Offro io!</strong> Un caffè e un macchiato. Pago per tutti.（我请客！一杯浓缩一杯玛奇朵，我一起付）</p>
+      <p class="barista">☕ <strong>3 euro, per favore.</strong></p>
+      <p>👩 Ecco 3 euro.</p>
+      <p class="barista">☕ <strong>Ecco lo scontrino.</strong></p>
+      <p class="barista">☕ <strong>Ecco a voi. Caffè e macchiato!</strong> （给您们。浓缩和玛奇朵！）</p>
+    </div>
+    <div class="note">
+      <strong>💡 Offro io = 我请客</strong><br>
+      意大利人超爱请人喝咖啡！要听懂这句话。
+    </div>
+  </div>
+
+  <div class="scene">
+    <h2 class="scene-title">📍 场景八：处理抱怨</h2>
+    <table style="width:100%; font-size:0.9em; border-collapse:collapse; margin-top:10px;">
+      <tr style="background:#f0f0f0;"><th style="padding:8px; text-align:left;">顾客抱怨</th><th style="padding:8px; text-align:left;">你回</th></tr>
+      <tr><td style="padding:8px;">Il caffè è freddo（咖啡凉了）</td><td style="padding:8px;"><span class="barista">Scusi, lo rifaccio subito!</span></td></tr>
+      <tr><td style="padding:8px;">Il caffè è amaro（太苦了）</td><td style="padding:8px;"><span class="barista">Vuole che aggiunga dello zucchero?</span></td></tr>
+      <tr><td style="padding:8px;">Ho aspettato troppo（等太久了）</td><td style="padding:8px;"><span class="barista">Mi scusi per l'attesa!</span></td></tr>
+      <tr><td style="padding:8px;">Questo non è quello che ho ordinato</td><td style="padding:8px;"><span class="barista">Scusi tanto! Subito il corretto!</span></td></tr>
+    </table>
+    <div class="note">
+      <strong>💡 处理抱怨万能句：</strong>Mi dispiace! / Scusi! / Lo rifaccio subito!
+    </div>
+  </div>
+</body>
+</html>
