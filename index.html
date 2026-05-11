@@ -5,31 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>意大利语Bar服务员 — 学习网站</title>
   <style>
-    <style>
-    .flag {
-      display: inline-block;
-      width: 60px;
-      height: 40px;
-      border-radius: 4px;
-      overflow: hidden;
-      vertical-align: middle;
-      margin-right: 10px;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.3);
-    }
-    .flag::before, .flag::after {
-      content: '';
-      float: left;
-      width: 33.33%;
-      height: 100%;
-    }
-    .flag::before { background: #009246; }
-    .flag::after { background: #ce2b37; }
-    .flag span {
-      float: left;
-      width: 33.34%;
-      height: 100%;
-      background: #fff;
-    }
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
@@ -45,11 +20,30 @@
       color: #fff;
       font-size: 2.5em;
       margin-bottom: 15px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 15px;
     }
     .header p {
       color: #a0a0a0;
       font-size: 1.1em;
     }
+    .italy-flag {
+      width: 64px;
+      height: 42px;
+      border-radius: 4px;
+      overflow: hidden;
+      box-shadow: 0 3px 10px rgba(0,0,0,0.4);
+      display: inline-flex;
+    }
+    .italy-flag span {
+      width: 33.33%;
+      height: 100%;
+    }
+    .italy-flag .green { background: #009246; }
+    .italy-flag .white { background: #fff; }
+    .italy-flag .red { background: #CE2B37; }
     .cards {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -88,14 +82,17 @@
       font-size: 0.9em;
     }
     @media (max-width: 600px) {
-      .header h1 { font-size: 1.8em; }
+      .header h1 { font-size: 1.8em; flex-wrap: wrap; }
       .cards { grid-template-columns: 1fr; }
     }
   </style>
 </head>
 <body>
   <div class="header">
-    <h1><span class="flag"><span></span></span>意大利语Bar服务员</h1>
+    <h1>
+      <span class="italy-flag"><span class="green"></span><span class="white"></span><span class="red"></span></span>
+      意大利语Bar服务员
+    </h1>
     <p>专为刚来意大利的华人咖啡师/吧台服务员打造</p>
   </div>
   <div class="cards">
