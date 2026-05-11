@@ -3,8 +3,33 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>🇮🇹 意大利语Bar服务员 — 学习网站</title>
+  <title>意大利语Bar服务员 — 学习网站</title>
   <style>
+    <style>
+    .flag {
+      display: inline-block;
+      width: 60px;
+      height: 40px;
+      border-radius: 4px;
+      overflow: hidden;
+      vertical-align: middle;
+      margin-right: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    }
+    .flag::before, .flag::after {
+      content: '';
+      float: left;
+      width: 33.33%;
+      height: 100%;
+    }
+    .flag::before { background: #009246; }
+    .flag::after { background: #ce2b37; }
+    .flag span {
+      float: left;
+      width: 33.34%;
+      height: 100%;
+      background: #fff;
+    }
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
@@ -70,7 +95,7 @@
 </head>
 <body>
   <div class="header">
-    <h1>🇮🇹 意大利语Bar服务员</h1>
+    <h1><span class="flag"><span></span></span>意大利语Bar服务员</h1>
     <p>专为刚来意大利的华人咖啡师/吧台服务员打造</p>
   </div>
   <div class="cards">
