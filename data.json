@@ -1,0 +1,5810 @@
+{
+ "sections": [
+  {
+   "title": "🇮🇹 意大利语Bar",
+   "subsections": [
+    {
+     "title": "📑 目录",
+     "entries": [
+      {
+       "ita": "Prima parte: Il bar e gli attrezzi",
+       "chn": "第一部分 · 门店与工具",
+       "extra": "",
+       "section": "🇮🇹 意大利语Bar"
+      },
+      {
+       "ita": "Seconda parte: Vocabolario essenziale",
+       "chn": "第二部分 · 核心词汇",
+       "extra": "",
+       "section": "🇮🇹 意大利语Bar"
+      },
+      {
+       "ita": "Terza parte: Tecniche del caffè",
+       "chn": "第三部分 · 咖啡技术",
+       "extra": "",
+       "section": "🇮🇹 意大利语Bar"
+      },
+      {
+       "ita": "Quarta parte: Aperitivo e cocktail",
+       "chn": "第四部分 · 开胃酒",
+       "extra": "",
+       "section": "🇮🇹 意大利语Bar"
+      },
+      {
+       "ita": "Quinta parte: Cibi e stuzzichini",
+       "chn": "第五部分 · 轻食",
+       "extra": "",
+       "section": "🇮🇹 意大利语Bar"
+      },
+      {
+       "ita": "Sesta parte: Dialoghi reali",
+       "chn": "第六部分 · 场景对话",
+       "extra": "",
+       "section": "🇮🇹 意大利语Bar"
+      },
+      {
+       "ita": "Settima parte: Frasi utili",
+       "chn": "第七部分 · 万能句型",
+       "extra": "",
+       "section": "🇮🇹 意大利语Bar"
+      },
+      {
+       "ita": "Ottava parte: Cultura del bar italiano",
+       "chn": "第八部分 · 文化贴士",
+       "extra": "",
+       "section": "🇮🇹 意大利语Bar"
+      },
+      {
+       "ita": "Nona parte: Parole riempitivo e colloquiale",
+       "chn": "第九部分 · 填充词",
+       "extra": "",
+       "section": "🇮🇹 意大利语Bar"
+      },
+      {
+       "ita": "Decima parte: Grammatica essentials",
+       "chn": "附录 · 语法",
+       "extra": "",
+       "section": "🇮🇹 意大利语Bar"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+   "subsections": [
+    {
+     "title": "1.1 门店类型与角色",
+     "entries": [
+      {
+       "ita": "Bar",
+       "chn": "咖啡吧 / 小酒馆",
+       "extra": "意大利日常据点",
+       "subsection": "1.1 门店类型与角色",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0001"
+      },
+      {
+       "ita": "Caffè",
+       "chn": "咖啡馆",
+       "extra": "同 bar，偏咖啡",
+       "subsection": "1.1 门店类型与角色",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0002"
+      },
+      {
+       "ita": "Caffetteria",
+       "chn": "咖啡店",
+       "extra": "连锁风",
+       "subsection": "1.1 门店类型与角色",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0003"
+      },
+      {
+       "ita": "Tavola calda",
+       "chn": "热食吧",
+       "extra": "供快餐",
+       "subsection": "1.1 门店类型与角色",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0004"
+      },
+      {
+       "ita": "Pub",
+       "chn": "英式酒吧",
+       "extra": "晚场",
+       "subsection": "1.1 门店类型与角色",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0005"
+      },
+      {
+       "ita": "Barista",
+       "chn": "咖啡师 / 调酒师",
+       "extra": "你要打交道的人",
+       "subsection": "1.1 门店类型与角色",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0006"
+      },
+      {
+       "ita": "Cameriere",
+       "chn": "服务员",
+       "extra": "座席服务",
+       "subsection": "1.1 门店类型与角色",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0007"
+      },
+      {
+       "ita": "Cassiera",
+       "chn": "收银员",
+       "extra": "cassa 处",
+       "subsection": "1.1 门店类型与角色",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0008"
+      },
+      {
+       "ita": "Cliente",
+       "chn": "顾客",
+       "extra": "你",
+       "subsection": "1.1 门店类型与角色",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0009"
+      },
+      {
+       "ita": "Bancone",
+       "chn": "吧台",
+       "extra": "al banco 站饮",
+       "subsection": "1.1 门店类型与角色",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0010"
+      },
+      {
+       "ita": "Cassa",
+       "chn": "收银台",
+       "extra": "先付或后付",
+       "subsection": "1.1 门店类型与角色",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0011"
+      },
+      {
+       "ita": "Scontrino",
+       "chn": "小票",
+       "extra": "法律要求出具",
+       "subsection": "1.1 门店类型与角色",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0012"
+      },
+      {
+       "ita": "Tavolo",
+       "chn": "餐桌",
+       "extra": "al tavolo 更贵",
+       "subsection": "1.1 门店类型与角色",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0013"
+      },
+      {
+       "ita": "Dehors",
+       "chn": "露天座",
+       "extra": "户外座位",
+       "subsection": "1.1 门店类型与角色",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0014"
+      },
+      {
+       "ita": "Macchina del caffè",
+       "chn": "咖啡机",
+       "extra": "espresso 机",
+       "subsection": "1.1 门店类型与角色",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0015"
+      },
+      {
+       "ita": "Macinacaffè",
+       "chn": "磨豆机",
+       "extra": "现磨",
+       "subsection": "1.1 门店类型与角色",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0016"
+      }
+     ]
+    },
+    {
+     "title": "1.2 设备与工具",
+     "entries": [
+      {
+       "ita": "Macchina espresso",
+       "chn": "意式咖啡机",
+       "extra": "9 bar 压力",
+       "subsection": "1.2 设备与工具",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0017"
+      },
+      {
+       "ita": "Macinacaffè",
+       "chn": "磨豆机",
+       "extra": "新鲜研磨",
+       "subsection": "1.2 设备与工具",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0018"
+      },
+      {
+       "ita": "Montalatte",
+       "chn": "打奶器",
+       "extra": "vapore 蒸汽",
+       "subsection": "1.2 设备与工具",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0019"
+      },
+      {
+       "ita": "Vapore",
+       "chn": "蒸汽",
+       "extra": "打奶泡",
+       "subsection": "1.2 设备与工具",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0020"
+      },
+      {
+       "ita": "Frigorifero",
+       "chn": "冰箱",
+       "extra": "冷藏",
+       "subsection": "1.2 设备与工具",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0021"
+      },
+      {
+       "ita": "Spillatore",
+       "chn": "生啤龙头",
+       "extra": "birra alla spina",
+       "subsection": "1.2 设备与工具",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0022"
+      },
+      {
+       "ita": "Shaker",
+       "chn": "雪克杯",
+       "extra": "调酒",
+       "subsection": "1.2 设备与工具",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0023"
+      },
+      {
+       "ita": "Frullatore",
+       "chn": "搅拌机",
+       "extra": "frullato",
+       "subsection": "1.2 设备与工具",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0024"
+      },
+      {
+       "ita": "Bilancia",
+       "chn": "秤",
+       "extra": "称粉",
+       "subsection": "1.2 设备与工具",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0025"
+      },
+      {
+       "ita": "Timer",
+       "chn": "计时器",
+       "extra": "萃取计时",
+       "subsection": "1.2 设备与工具",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0026"
+      },
+      {
+       "ita": "Pressino",
+       "chn": "压粉锤",
+       "extra": "tamper",
+       "subsection": "1.2 设备与工具",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0027"
+      },
+      {
+       "ita": "Tazza dosata",
+       "chn": "量杯",
+       "extra": "milk",
+       "subsection": "1.2 设备与工具",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0028"
+      },
+      {
+       "ita": "Manopola vapore",
+       "chn": "蒸汽阀",
+       "extra": "控制",
+       "subsection": "1.2 设备与工具",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0029"
+      },
+      {
+       "ita": "Filtro",
+       "chn": "粉碗",
+       "extra": "portafilter",
+       "subsection": "1.2 设备与工具",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0030"
+      },
+      {
+       "ita": "Gruppo",
+       "chn": "冲煮头",
+       "extra": "erogazione",
+       "subsection": "1.2 设备与工具",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0031"
+      },
+      {
+       "ita": "Getto",
+       "chn": "出水口",
+       "extra": "流咖啡",
+       "subsection": "1.2 设备与工具",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0032"
+      }
+     ]
+    },
+    {
+     "title": "1.3 杯具与耗材",
+     "entries": [
+      {
+       "ita": "Tazzina",
+       "chn": "小咖啡杯",
+       "extra": "espresso 用",
+       "subsection": "1.3 杯具与耗材",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0033"
+      },
+      {
+       "ita": "Bicchiere",
+       "chn": "玻璃杯",
+       "extra": "水/酒",
+       "subsection": "1.3 杯具与耗材",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0034"
+      },
+      {
+       "ita": "Flûte",
+       "chn": "长笛杯",
+       "extra": "spritz/prosecco",
+       "subsection": "1.3 杯具与耗材",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0035"
+      },
+      {
+       "ita": "Calice",
+       "chn": "红酒杯",
+       "extra": "vino",
+       "subsection": "1.3 杯具与耗材",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0036"
+      },
+      {
+       "ita": "Coppetta",
+       "chn": "小碟",
+       "extra": "olive",
+       "subsection": "1.3 杯具与耗材",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0037"
+      },
+      {
+       "ita": "Cannuccia",
+       "chn": "吸管",
+       "extra": "冷饮",
+       "subsection": "1.3 杯具与耗材",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0038"
+      },
+      {
+       "ita": "Tovagliolo",
+       "chn": "餐巾",
+       "extra": "纸巾",
+       "subsection": "1.3 杯具与耗材",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0039"
+      },
+      {
+       "ita": "Sottobicchiere",
+       "chn": "杯垫",
+       "extra": "防烫",
+       "subsection": "1.3 杯具与耗材",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0040"
+      },
+      {
+       "ita": "Ghiaccio",
+       "chn": "冰块",
+       "extra": "冰饮",
+       "subsection": "1.3 杯具与耗材",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0041"
+      },
+      {
+       "ita": "Cucchiaino",
+       "chn": "小勺",
+       "extra": "搅糖",
+       "subsection": "1.3 杯具与耗材",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0042"
+      },
+      {
+       "ita": "Zuccheriera",
+       "chn": "糖罐",
+       "extra": "糖",
+       "subsection": "1.3 杯具与耗材",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0043"
+      },
+      {
+       "ita": "Lattiera",
+       "chn": "奶缸",
+       "extra": "打奶",
+       "subsection": "1.3 杯具与耗材",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0044"
+      },
+      {
+       "ita": "Caraffa",
+       "chn": "水壶 / 奶壶",
+       "extra": "servire",
+       "subsection": "1.3 杯具与耗材",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0045"
+      },
+      {
+       "ita": "Vassoio",
+       "chn": "托盘",
+       "extra": "上桌",
+       "subsection": "1.3 杯具与耗材",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0046"
+      },
+      {
+       "ita": "POS",
+       "chn": "刷卡机",
+       "extra": "pagare con carta",
+       "subsection": "1.3 杯具与耗材",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0047"
+      },
+      {
+       "ita": "Tessera fedeltà",
+       "chn": "积分卡",
+       "extra": "10 杯送1",
+       "subsection": "1.3 杯具与耗材",
+       "section": "第1部分 · 第1部分 · 🏪 人物·场所·工具",
+       "id": "audio_0048"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+   "subsections": [
+    {
+     "title": "2.1 咖啡种类大全",
+     "entries": [
+      {
+       "ita": "Caffè",
+       "chn": "意式浓缩（默认）",
+       "extra": "绝不说“un espresso”",
+       "subsection": "2.1 咖啡种类大全",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0049"
+      },
+      {
+       "ita": "Caffè ristretto",
+       "chn": "超浓缩",
+       "extra": "更短更浓",
+       "subsection": "2.1 咖啡种类大全",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0050"
+      },
+      {
+       "ita": "Caffè lungo",
+       "chn": "加长浓缩",
+       "extra": "多水稍淡",
+       "subsection": "2.1 咖啡种类大全",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0051"
+      },
+      {
+       "ita": "Caffè doppio",
+       "chn": "双份浓缩",
+       "extra": "two shots",
+       "subsection": "2.1 咖啡种类大全",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0052"
+      },
+      {
+       "ita": "Caffè macchiato caldo",
+       "chn": "热脏咖啡",
+       "extra": "加奶泡",
+       "subsection": "2.1 咖啡种类大全",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0053"
+      },
+      {
+       "ita": "Caffè macchiato freddo",
+       "chn": "冷脏咖啡",
+       "extra": "加冷奶",
+       "subsection": "2.1 咖啡种类大全",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0054"
+      },
+      {
+       "ita": "Cappuccino",
+       "chn": "卡布奇诺",
+       "extra": "仅早晨",
+       "subsection": "2.1 咖啡种类大全",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0055"
+      },
+      {
+       "ita": "Caffè latte",
+       "chn": "拿铁",
+       "extra": "大杯奶",
+       "subsection": "2.1 咖啡种类大全",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0056"
+      },
+      {
+       "ita": "Latte macchiato",
+       "chn": "玛奇朵牛奶",
+       "extra": "牛奶为主",
+       "subsection": "2.1 咖啡种类大全",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0057"
+      },
+      {
+       "ita": "Caffè americano",
+       "chn": "美式",
+       "extra": "加热水",
+       "subsection": "2.1 咖啡种类大全",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0058"
+      },
+      {
+       "ita": "Caffè corretto",
+       "chn": "加酒咖啡",
+       "extra": "grappa/sambuca",
+       "subsection": "2.1 咖啡种类大全",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0059"
+      },
+      {
+       "ita": "Marocchino",
+       "chn": "摩洛哥咖啡",
+       "extra": "可可+奶泡",
+       "subsection": "2.1 咖啡种类大全",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0060"
+      },
+      {
+       "ita": "Caffè d’orzo",
+       "chn": "大麦咖啡",
+       "extra": "无咖啡因",
+       "subsection": "2.1 咖啡种类大全",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0061"
+      },
+      {
+       "ita": "Caffè ginseng",
+       "chn": "人参咖啡",
+       "extra": "微甜",
+       "subsection": "2.1 咖啡种类大全",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0062"
+      },
+      {
+       "ita": "Caffè shakerato",
+       "chn": "雪克冰咖啡",
+       "extra": "摇匀冰",
+       "subsection": "2.1 咖啡种类大全",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0063"
+      },
+      {
+       "ita": "Caffè freddo",
+       "chn": "冰咖啡",
+       "extra": "甜冷",
+       "subsection": "2.1 咖啡种类大全",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0064"
+      },
+      {
+       "ita": "Decaffeinato / deca",
+       "chn": "低因",
+       "extra": "“un deca”",
+       "subsection": "2.1 咖啡种类大全",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0065"
+      },
+      {
+       "ita": "Crema",
+       "chn": "咖啡油脂",
+       "extra": "新鲜标志",
+       "subsection": "2.1 咖啡种类大全",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0066"
+      },
+      {
+       "ita": "Schiuma",
+       "chn": "奶泡",
+       "extra": "cappuccino 顶",
+       "subsection": "2.1 咖啡种类大全",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0067"
+      }
+     ]
+    },
+    {
+     "title": "2.2 奶与调味",
+     "entries": [
+      {
+       "ita": "Latte intero",
+       "chn": "全脂奶",
+       "extra": "默认",
+       "subsection": "2.2 奶与调味",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0068"
+      },
+      {
+       "ita": "Latte scremato",
+       "chn": "脱脂奶",
+       "extra": "leggero",
+       "subsection": "2.2 奶与调味",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0069"
+      },
+      {
+       "ita": "Latte senza lattosio",
+       "chn": "无乳糖奶",
+       "extra": "intolleranza",
+       "subsection": "2.2 奶与调味",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0070"
+      },
+      {
+       "ita": "Latte di soia",
+       "chn": "豆奶",
+       "extra": "vegetale",
+       "subsection": "2.2 奶与调味",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0071"
+      },
+      {
+       "ita": "Latte di avena",
+       "chn": "燕麦奶",
+       "extra": "trend",
+       "subsection": "2.2 奶与调味",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0072"
+      },
+      {
+       "ita": "Schiuma di latte",
+       "chn": "奶沫",
+       "extra": "microschiuma",
+       "subsection": "2.2 奶与调味",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0073"
+      },
+      {
+       "ita": "Panna",
+       "chn": "鲜奶油",
+       "extra": "topping",
+       "subsection": "2.2 奶与调味",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0074"
+      },
+      {
+       "ita": "Cacao",
+       "chn": "可可粉",
+       "extra": "marocchino",
+       "subsection": "2.2 奶与调味",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0075"
+      },
+      {
+       "ita": "Cannella",
+       "chn": "肉桂",
+       "extra": "spice",
+       "subsection": "2.2 奶与调味",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0076"
+      },
+      {
+       "ita": "Zucchero",
+       "chn": "糖",
+       "extra": "默认提供",
+       "subsection": "2.2 奶与调味",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0077"
+      },
+      {
+       "ita": "Zucchero di canna",
+       "chn": "红糖",
+       "extra": "più dolce",
+       "subsection": "2.2 奶与调味",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0078"
+      },
+      {
+       "ita": "Miele",
+       "chn": "蜂蜜",
+       "extra": "natural",
+       "subsection": "2.2 奶与调味",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0079"
+      },
+      {
+       "ita": "Caramello",
+       "chn": "焦糖",
+       "extra": "syrup",
+       "subsection": "2.2 奶与调味",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0080"
+      },
+      {
+       "ita": "Vaniglia",
+       "chn": "香草",
+       "extra": "syrup",
+       "subsection": "2.2 奶与调味",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0081"
+      },
+      {
+       "ita": "Cioccolato",
+       "chn": "巧克力",
+       "extra": "caldo/freddo",
+       "subsection": "2.2 奶与调味",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0082"
+      },
+      {
+       "ita": "Stevia",
+       "chn": "甜菊",
+       "extra": "zero cal",
+       "subsection": "2.2 奶与调味",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0083"
+      }
+     ]
+    },
+    {
+     "title": "2.3 糕点食物",
+     "entries": [
+      {
+       "ita": "Cornetto vuoto",
+       "chn": "空牛角包",
+       "extra": "无馅",
+       "subsection": "2.3 糕点食物",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0084"
+      },
+      {
+       "ita": "Cornetto alla marmellata",
+       "chn": "果酱牛角",
+       "extra": "jam",
+       "subsection": "2.3 糕点食物",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0085"
+      },
+      {
+       "ita": "Cornetto alla crema",
+       "chn": "奶油牛角",
+       "extra": "custard",
+       "subsection": "2.3 糕点食物",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0086"
+      },
+      {
+       "ita": "Cornetto al cioccolato",
+       "chn": "巧克力牛角",
+       "extra": "choco",
+       "subsection": "2.3 糕点食物",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0087"
+      },
+      {
+       "ita": "Brioche",
+       "chn": "布里欧修",
+       "extra": "南方叫 brioscia",
+       "subsection": "2.3 糕点食物",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0088"
+      },
+      {
+       "ita": "Fetta di torta",
+       "chn": "蛋糕片",
+       "extra": "dessert",
+       "subsection": "2.3 糕点食物",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0089"
+      },
+      {
+       "ita": "Tramezzino",
+       "chn": "三角三明治",
+       "extra": "去皮",
+       "subsection": "2.3 糕点食物",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0090"
+      },
+      {
+       "ita": "Panino",
+       "chn": "帕尼尼",
+       "extra": "意式三明",
+       "subsection": "2.3 糕点食物",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0091"
+      },
+      {
+       "ita": "Piadina",
+       "chn": "意式薄饼卷",
+       "extra": "romagna",
+       "subsection": "2.3 糕点食物",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0092"
+      },
+      {
+       "ita": "Pizzetta",
+       "chn": "小披萨",
+       "extra": "零食",
+       "subsection": "2.3 糕点食物",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0093"
+      },
+      {
+       "ita": "Focaccia",
+       "chn": "佛卡夏",
+       "extra": "咸香",
+       "subsection": "2.3 糕点食物",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0094"
+      },
+      {
+       "ita": "Grissini",
+       "chn": "脆面包棒",
+       "extra": "stuzzichino",
+       "subsection": "2.3 糕点食物",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0095"
+      },
+      {
+       "ita": "Sfogliatella",
+       "chn": "那不勒斯千层",
+       "extra": "napoli",
+       "subsection": "2.3 糕点食物",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0096"
+      },
+      {
+       "ita": "Veneziana",
+       "chn": "米兰甜面包",
+       "extra": "milano",
+       "subsection": "2.3 糕点食物",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0097"
+      },
+      {
+       "ita": "Krapfen",
+       "chn": "柏林甜甜圈",
+       "extra": "fritto",
+       "subsection": "2.3 糕点食物",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0098"
+      },
+      {
+       "ita": "Bonet / dolcetto",
+       "chn": "小甜点",
+       "extra": "varie",
+       "subsection": "2.3 糕点食物",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0099"
+      }
+     ]
+    },
+    {
+     "title": "2.4 酒水与开胃酒",
+     "entries": [
+      {
+       "ita": "Aperol",
+       "chn": "阿佩罗",
+       "extra": "橙红开胃",
+       "subsection": "2.4 酒水与开胃酒",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0100"
+      },
+      {
+       "ita": "Campari",
+       "chn": "金巴利",
+       "extra": "苦开胃",
+       "subsection": "2.4 酒水与开胃酒",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0101"
+      },
+      {
+       "ita": "Spritz",
+       "chn": "斯普利茨",
+       "extra": "开胃酒王",
+       "subsection": "2.4 酒水与开胃酒",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0102"
+      },
+      {
+       "ita": "Negroni",
+       "chn": "尼格罗尼",
+       "extra": "gin+vermouth+campari",
+       "subsection": "2.4 酒水与开胃酒",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0103"
+      },
+      {
+       "ita": "Prosecco",
+       "chn": "普罗塞克",
+       "extra": "起泡白",
+       "subsection": "2.4 酒水与开胃酒",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0104"
+      },
+      {
+       "ita": "Vino rosso",
+       "chn": "红葡萄酒",
+       "extra": "常饮",
+       "subsection": "2.4 酒水与开胃酒",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0105"
+      },
+      {
+       "ita": "Vino bianco",
+       "chn": "白葡萄酒",
+       "extra": "常饮",
+       "subsection": "2.4 酒水与开胃酒",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0106"
+      },
+      {
+       "ita": "Vino rosato",
+       "chn": "桃红",
+       "extra": "estate",
+       "subsection": "2.4 酒水与开胃酒",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0107"
+      },
+      {
+       "ita": "Vino della casa",
+       "chn": "店酒",
+       "extra": "性价比",
+       "subsection": "2.4 酒水与开胃酒",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0108"
+      },
+      {
+       "ita": "Birra alla spina",
+       "chn": "生啤",
+       "extra": "draught",
+       "subsection": "2.4 酒水与开胃酒",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0109"
+      },
+      {
+       "ita": "Birra in bottiglia",
+       "chn": "瓶啤",
+       "extra": "bottiglia",
+       "subsection": "2.4 酒水与开胃酒",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0110"
+      },
+      {
+       "ita": "Amaro",
+       "chn": "苦味利口酒",
+       "extra": "餐后",
+       "subsection": "2.4 酒水与开胃酒",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0111"
+      },
+      {
+       "ita": "Grappa",
+       "chn": "格拉帕",
+       "extra": "果渣白",
+       "subsection": "2.4 酒水与开胃酒",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0112"
+      },
+      {
+       "ita": "Sambuca",
+       "chn": "森布卡",
+       "extra": "茴香",
+       "subsection": "2.4 酒水与开胃酒",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0113"
+      },
+      {
+       "ita": "Limoncello",
+       "chn": "柠檬酒",
+       "extra": "南方",
+       "subsection": "2.4 酒水与开胃酒",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0114"
+      },
+      {
+       "ita": "Vermouth",
+       "chn": "味美思",
+       "extra": "aperitivo",
+       "subsection": "2.4 酒水与开胃酒",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0115"
+      },
+      {
+       "ita": "Gin",
+       "chn": "金酒",
+       "extra": "base",
+       "subsection": "2.4 酒水与开胃酒",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0116"
+      },
+      {
+       "ita": "Rum",
+       "chn": "朗姆",
+       "extra": "base",
+       "subsection": "2.4 酒水与开胃酒",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0117"
+      },
+      {
+       "ita": "Acqua naturale",
+       "chn": "静水",
+       "extra": "still",
+       "subsection": "2.4 酒水与开胃酒",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0118"
+      },
+      {
+       "ita": "Acqua frizzante",
+       "chn": "气泡水",
+       "extra": "sparkling",
+       "subsection": "2.4 酒水与开胃酒",
+       "section": "第2部分 · 第2部分 · ☕ 核心词汇速查",
+       "id": "audio_0119"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+   "subsections": [
+    {
+     "title": "3.1 萃取术语",
+     "entries": [
+      {
+       "ita": "Macinatura",
+       "chn": "研磨度",
+       "extra": "fine/medium",
+       "subsection": "3.1 萃取术语",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0120"
+      },
+      {
+       "ita": "Dose",
+       "chn": "粉量",
+       "extra": "7-9 g",
+       "subsection": "3.1 萃取术语",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0121"
+      },
+      {
+       "ita": "Estrazione",
+       "chn": "萃取",
+       "extra": "25-30 sec",
+       "subsection": "3.1 萃取术语",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0122"
+      },
+      {
+       "ita": "Pressione 9 bar",
+       "chn": "9 巴压力",
+       "extra": "标准",
+       "subsection": "3.1 萃取术语",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0123"
+      },
+      {
+       "ita": "Crema",
+       "chn": "油脂层",
+       "extra": "新鲜标志",
+       "subsection": "3.1 萃取术语",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0124"
+      },
+      {
+       "ita": "Corpo",
+       "chn": "醇厚度",
+       "extra": "口感",
+       "subsection": "3.1 萃取术语",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0125"
+      },
+      {
+       "ita": "Retrolfatto",
+       "chn": "回甘",
+       "extra": "香气尾",
+       "subsection": "3.1 萃取术语",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0126"
+      },
+      {
+       "ita": "Bilanciato",
+       "chn": "平衡",
+       "extra": "理想",
+       "subsection": "3.1 萃取术语",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0127"
+      },
+      {
+       "ita": "Sbilanciato",
+       "chn": "失衡",
+       "extra": "过萃/欠萃",
+       "subsection": "3.1 萃取术语",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0128"
+      },
+      {
+       "ita": "Troppo lungo",
+       "chn": "过萃",
+       "extra": "苦",
+       "subsection": "3.1 萃取术语",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0129"
+      },
+      {
+       "ita": "Troppo corto",
+       "chn": "欠萃",
+       "extra": "酸",
+       "subsection": "3.1 萃取术语",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0130"
+      },
+      {
+       "ita": "Macinare al momento",
+       "chn": "现磨",
+       "extra": "新鲜",
+       "subsection": "3.1 萃取术语",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0131"
+      },
+      {
+       "ita": "Tamper",
+       "chn": "压粉",
+       "extra": "水平压",
+       "subsection": "3.1 萃取术语",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0132"
+      },
+      {
+       "ita": "Colpo",
+       "chn": "出液",
+       "extra": "il colpo",
+       "subsection": "3.1 萃取术语",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0133"
+      }
+     ]
+    },
+    {
+     "title": "3.2 打奶泡",
+     "entries": [
+      {
+       "ita": "Montare il latte",
+       "chn": "打奶泡",
+       "extra": "vapore",
+       "subsection": "3.2 打奶泡",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0134"
+      },
+      {
+       "ita": "Microschiuma",
+       "chn": "微奶泡",
+       "extra": "丝滑",
+       "subsection": "3.2 打奶泡",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0135"
+      },
+      {
+       "ita": "Latte caldo",
+       "chn": "热奶",
+       "extra": "cappuccino",
+       "subsection": "3.2 打奶泡",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0136"
+      },
+      {
+       "ita": "Caraffa",
+       "chn": "奶缸",
+       "extra": "versare",
+       "subsection": "3.2 打奶泡",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0137"
+      },
+      {
+       "ita": "Vapore",
+       "chn": "蒸汽棒",
+       "extra": "发力",
+       "subsection": "3.2 打奶泡",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0138"
+      },
+      {
+       "ita": "Inserire l’aria",
+       "chn": "进气",
+       "extra": "起始嘶嘶",
+       "subsection": "3.2 打奶泡",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0139"
+      },
+      {
+       "ita": "Vorticare",
+       "chn": "旋流",
+       "extra": "混匀",
+       "subsection": "3.2 打奶泡",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0140"
+      },
+      {
+       "ita": "Temperature 65°",
+       "chn": "65度",
+       "extra": "理想奶温",
+       "subsection": "3.2 打奶泡",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0141"
+      },
+      {
+       "ita": "Schiuma densa",
+       "chn": "厚泡",
+       "extra": "cappuccino",
+       "subsection": "3.2 打奶泡",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0142"
+      },
+      {
+       "ita": "Latte liscio",
+       "chn": "平奶",
+       "extra": "latte macchiato",
+       "subsection": "3.2 打奶泡",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0143"
+      }
+     ]
+    },
+    {
+     "title": "3.3 经典配方",
+     "entries": [
+      {
+       "ita": "Ricetta cappuccino",
+       "chn": "卡布配方",
+       "extra": "1/3 咖啡1/3奶1/3泡",
+       "subsection": "3.3 经典配方",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0144"
+      },
+      {
+       "ita": "Un terzo caffè",
+       "chn": "三分之一咖啡",
+       "extra": "base",
+       "subsection": "3.3 经典配方",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0145"
+      },
+      {
+       "ita": "Un terzo latte",
+       "chn": "三分之一奶",
+       "extra": "middle",
+       "subsection": "3.3 经典配方",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0146"
+      },
+      {
+       "ita": "Un terzo schiuma",
+       "chn": "三分之一泡",
+       "extra": "top",
+       "subsection": "3.3 经典配方",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0147"
+      },
+      {
+       "ita": "Spritz = Aperol + Prosecco",
+       "chn": "斯普利茨配方",
+       "extra": "+ gassosa + oliva",
+       "subsection": "3.3 经典配方",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0148"
+      },
+      {
+       "ita": "Negroni = gin + vermouth",
+       "chn": "尼格罗尼",
+       "extra": "+ campari",
+       "subsection": "3.3 经典配方",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0149"
+      },
+      {
+       "ita": "Caffè corretto grappa",
+       "chn": "加格拉帕",
+       "extra": "北方传统",
+       "subsection": "3.3 经典配方",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0150"
+      },
+      {
+       "ita": "Marocchino = cacao+latte",
+       "chn": "摩洛哥",
+       "extra": "+ schiuma",
+       "subsection": "3.3 经典配方",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0151"
+      },
+      {
+       "ita": "Shakerato = espresso+ghiaccio",
+       "chn": "雪克",
+       "extra": "摇匀",
+       "subsection": "3.3 经典配方",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0152"
+      },
+      {
+       "ita": "Americano = espresso+acqua",
+       "chn": "美式",
+       "extra": "加热水",
+       "subsection": "3.3 经典配方",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0153"
+      }
+     ]
+    },
+    {
+     "title": "3.4 吧台沟通例句",
+     "entries": [
+      {
+       "ita": "Un caffè, per favore",
+       "chn": "一杯咖啡，谢谢",
+       "extra": "最常用",
+       "subsection": "3.4 吧台沟通例句",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0154"
+      },
+      {
+       "ita": "Al banco o al tavolo?",
+       "chn": "吧台还是坐桌？",
+       "extra": "必问",
+       "subsection": "3.4 吧台沟通例句",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0155"
+      },
+      {
+       "ita": "Lo vuole corretto?",
+       "chn": "要加酒吗？",
+       "extra": "询问",
+       "subsection": "3.4 吧台沟通例句",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0156"
+      },
+      {
+       "ita": "Caldo o freddo?",
+       "chn": "热的还是冷的？",
+       "extra": "确认",
+       "subsection": "3.4 吧台沟通例句",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0157"
+      },
+      {
+       "ita": "Con zucchero?",
+       "chn": "加糖吗？",
+       "extra": "确认",
+       "subsection": "3.4 吧台沟通例句",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0158"
+      },
+      {
+       "ita": "Subito, grazie",
+       "chn": "马上来，谢谢",
+       "extra": "回应",
+       "subsection": "3.4 吧台沟通例句",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0159"
+      },
+      {
+       "ita": "Altro?",
+       "chn": "还要别的吗？",
+       "extra": "追加",
+       "subsection": "3.4 吧台沟通例句",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0160"
+      },
+      {
+       "ita": "È tutto?",
+       "chn": "就这些？",
+       "extra": "收单",
+       "subsection": "3.4 吧台沟通例句",
+       "section": "第3部分 · 第3部分 · ☕ 咖啡制作技术",
+       "id": "audio_0161"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "第4部分 · 第4部分 · 🍸 酒水与 Aperitivo",
+   "subsections": [
+    {
+     "title": "4.1 开胃酒术语",
+     "entries": [
+      {
+       "ita": "Aperitivo",
+       "chn": "开胃酒时光",
+       "extra": "傍晚文化",
+       "subsection": "4.1 开胃酒术语",
+       "section": "第4部分 · 第4部分 · 🍸 酒水与 Aperitivo",
+       "id": "audio_0162"
+      },
+      {
+       "ita": "Apericena",
+       "chn": "开胃代餐",
+       "extra": "米兰风",
+       "subsection": "4.1 开胃酒术语",
+       "section": "第4部分 · 第4部分 · 🍸 酒水与 Aperitivo",
+       "id": "audio_0163"
+      },
+      {
+       "ita": "Bitter",
+       "chn": "苦酒",
+       "extra": "campari 类",
+       "subsection": "4.1 开胃酒术语",
+       "section": "第4部分 · 第4部分 · 🍸 酒水与 Aperitivo",
+       "id": "audio_0164"
+      },
+      {
+       "ita": "Analcolico",
+       "chn": "无酒精",
+       "extra": "bimbi",
+       "subsection": "4.1 开胃酒术语",
+       "section": "第4部分 · 第4部分 · 🍸 酒水与 Aperitivo",
+       "id": "audio_0165"
+      },
+      {
+       "ita": "Long drink",
+       "chn": "长饮",
+       "extra": "加汽水",
+       "subsection": "4.1 开胃酒术语",
+       "section": "第4部分 · 第4部分 · 🍸 酒水与 Aperitivo",
+       "id": "audio_0166"
+      },
+      {
+       "ita": "Short drink",
+       "chn": "短饮",
+       "extra": "纯烈",
+       "subsection": "4.1 开胃酒术语",
+       "section": "第4部分 · 第4部分 · 🍸 酒水与 Aperitivo",
+       "id": "audio_0167"
+      },
+      {
+       "ita": "Ghiacciato",
+       "chn": "加冰",
+       "extra": "on ice",
+       "subsection": "4.1 开胃酒术语",
+       "section": "第4部分 · 第4部分 · 🍸 酒水与 Aperitivo",
+       "id": "audio_0168"
+      },
+      {
+       "ita": "Liscio",
+       "chn": "纯饮",
+       "extra": "neat",
+       "subsection": "4.1 开胃酒术语",
+       "section": "第4部分 · 第4部分 · 🍸 酒水与 Aperitivo",
+       "id": "audio_0169"
+      },
+      {
+       "ita": "Con soda",
+       "chn": "加苏打",
+       "extra": "light",
+       "subsection": "4.1 开胃酒术语",
+       "section": "第4部分 · 第4部分 · 🍸 酒水与 Aperitivo",
+       "id": "audio_0170"
+      },
+      {
+       "ita": "Taglio",
+       "chn": "一杯量",
+       "extra": "un taglio",
+       "subsection": "4.1 开胃酒术语",
+       "section": "第4部分 · 第4部分 · 🍸 酒水与 Aperitivo",
+       "id": "audio_0171"
+      }
+     ]
+    },
+    {
+     "title": "4.2 经典鸡尾酒",
+     "entries": [
+      {
+       "ita": "Spritz",
+       "chn": "斯普利茨",
+       "extra": "Aperol+Prosecco+苏打",
+       "subsection": "4.2 经典鸡尾酒",
+       "section": "第4部分 · 第4部分 · 🍸 酒水与 Aperitivo",
+       "id": "audio_0172"
+      },
+      {
+       "ita": "Negroni",
+       "chn": "尼格罗尼",
+       "extra": "gin+vermouth+campari",
+       "subsection": "4.2 经典鸡尾酒",
+       "section": "第4部分 · 第4部分 · 🍸 酒水与 Aperitivo",
+       "id": "audio_0173"
+      },
+      {
+       "ita": "Negroni sbagliato",
+       "chn": "错尼格罗尼",
+       "extra": "campari+prosecco",
+       "subsection": "4.2 经典鸡尾酒",
+       "section": "第4部分 · 第4部分 · 🍸 酒水与 Aperitivo",
+       "id": "audio_0174"
+      },
+      {
+       "ita": "Americano",
+       "chn": "美式鸡尾",
+       "extra": "campari+vermouth",
+       "subsection": "4.2 经典鸡尾酒",
+       "section": "第4部分 · 第4部分 · 🍸 酒水与 Aperitivo",
+       "id": "audio_0175"
+      },
+      {
+       "ita": "Campari soda",
+       "chn": "金巴利苏打",
+       "extra": "simple",
+       "subsection": "4.2 经典鸡尾酒",
+       "section": "第4部分 · 第4部分 · 🍸 酒水与 Aperitivo",
+       "id": "audio_0176"
+      },
+      {
+       "ita": "Rossini",
+       "chn": "罗西尼",
+       "extra": "prosecco+fragola",
+       "subsection": "4.2 经典鸡尾酒",
+       "section": "第4部分 · 第4部分 · 🍸 酒水与 Aperitivo",
+       "id": "audio_0177"
+      },
+      {
+       "ita": "Bellini",
+       "chn": "贝里尼",
+       "extra": "prosecco+pesca",
+       "subsection": "4.2 经典鸡尾酒",
+       "section": "第4部分 · 第4部分 · 🍸 酒水与 Aperitivo",
+       "id": "audio_0178"
+      },
+      {
+       "ita": "Hugo",
+       "chn": "雨果",
+       "extra": "prosecco+acetosa",
+       "subsection": "4.2 经典鸡尾酒",
+       "section": "第4部分 · 第4部分 · 🍸 酒水与 Aperitivo",
+       "id": "audio_0179"
+      },
+      {
+       "ita": "Gin tonic",
+       "chn": "金汤力",
+       "extra": "gin+tonic",
+       "subsection": "4.2 经典鸡尾酒",
+       "section": "第4部分 · 第4部分 · 🍸 酒水与 Aperitivo",
+       "id": "audio_0180"
+      },
+      {
+       "ita": "Mojito",
+       "chn": "莫吉托",
+       "extra": "rum+menta",
+       "subsection": "4.2 经典鸡尾酒",
+       "section": "第4部分 · 第4部分 · 🍸 酒水与 Aperitivo",
+       "id": "audio_0181"
+      },
+      {
+       "ita": "Sangria",
+       "chn": "桑格利亚",
+       "extra": "红酒水果",
+       "subsection": "4.2 经典鸡尾酒",
+       "section": "第4部分 · 第4部分 · 🍸 酒水与 Aperitivo",
+       "id": "audio_0182"
+      },
+      {
+       "ita": "Caipirinha",
+       "chn": "凯匹林纳",
+       "extra": "cachaça",
+       "subsection": "4.2 经典鸡尾酒",
+       "section": "第4部分 · 第4部分 · 🍸 酒水与 Aperitivo",
+       "id": "audio_0183"
+      },
+      {
+       "ita": "Martini",
+       "chn": "马天尼",
+       "extra": "gin+vermouth",
+       "subsection": "4.2 经典鸡尾酒",
+       "section": "第4部分 · 第4部分 · 🍸 酒水与 Aperitivo",
+       "id": "audio_0184"
+      },
+      {
+       "ita": "Spritz al Campari",
+       "chn": "金巴利斯普利茨",
+       "extra": "variante",
+       "subsection": "4.2 经典鸡尾酒",
+       "section": "第4部分 · 第4部分 · 🍸 酒水与 Aperitivo",
+       "id": "audio_0185"
+      }
+     ]
+    },
+    {
+     "title": "4.3 酒水沟通例句",
+     "entries": [
+      {
+       "ita": "Uno spritz, per favore",
+       "chn": "一杯斯普利茨",
+       "extra": "经典",
+       "subsection": "4.3 酒水沟通例句",
+       "section": "第4部分 · 第4部分 · 🍸 酒水与 Aperitivo",
+       "id": "audio_0186"
+      },
+      {
+       "ita": "Che aperitivo mi consiglia?",
+       "chn": "推荐什么开胃酒？",
+       "extra": "问",
+       "subsection": "4.3 酒水沟通例句",
+       "section": "第4部分 · 第4部分 · 🍸 酒水与 Aperitivo",
+       "id": "audio_0187"
+      },
+      {
+       "ita": "Un bicchiere di vino della casa",
+       "chn": "一杯店酒",
+       "extra": "常见",
+       "subsection": "4.3 酒水沟通例句",
+       "section": "第4部分 · 第4部分 · 🍸 酒水与 Aperitivo",
+       "id": "audio_0188"
+      },
+      {
+       "ita": "Lo preferisci con ghiaccio?",
+       "chn": "要加冰吗？",
+       "extra": "问",
+       "subsection": "4.3 酒水沟通例句",
+       "section": "第4部分 · 第4部分 · 🍸 酒水与 Aperitivo",
+       "id": "audio_0189"
+      },
+      {
+       "ita": "Una birra alla spina",
+       "chn": "一杯生啤",
+       "extra": "bar",
+       "subsection": "4.3 酒水沟通例句",
+       "section": "第4部分 · 第4部分 · 🍸 酒水与 Aperitivo",
+       "id": "audio_0190"
+      },
+      {
+       "ita": "Senza alcool, grazie",
+       "chn": "不要酒精，谢谢",
+       "extra": "指定",
+       "subsection": "4.3 酒水沟通例句",
+       "section": "第4部分 · 第4部分 · 🍸 酒水与 Aperitivo",
+       "id": "audio_0191"
+      },
+      {
+       "ita": "Un calice di prosecco",
+       "chn": "一杯普罗塞克",
+       "extra": "flûte",
+       "subsection": "4.3 酒水沟通例句",
+       "section": "第4部分 · 第4部分 · 🍸 酒水与 Aperitivo",
+       "id": "audio_0192"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "第5部分 · 第5部分 · 🥪 食物与轻食",
+   "subsections": [
+    {
+     "title": "5.1 三明治与卷饼",
+     "entries": [
+      {
+       "ita": "Tramezzino al tonno",
+       "chn": "金枪鱼三明",
+       "extra": "classic",
+       "subsection": "5.1 三明治与卷饼",
+       "section": "第5部分 · 第5部分 · 🥪 食物与轻食",
+       "id": "audio_0193"
+      },
+      {
+       "ita": "Tramezzino prosciutto",
+       "chn": "火腿三明",
+       "extra": "simple",
+       "subsection": "5.1 三明治与卷饼",
+       "section": "第5部分 · 第5部分 · 🥪 食物与轻食",
+       "id": "audio_0194"
+      },
+      {
+       "ita": "Panino con mozzarella",
+       "chn": "马苏卷",
+       "extra": "vegetariano",
+       "subsection": "5.1 三明治与卷饼",
+       "section": "第5部分 · 第5部分 · 🥪 食物与轻食",
+       "id": "audio_0195"
+      },
+      {
+       "ita": "Piadina con crudo",
+       "chn": "火腿薄饼",
+       "extra": "romagna",
+       "subsection": "5.1 三明治与卷饼",
+       "section": "第5部分 · 第5部分 · 🥪 食物与轻食",
+       "id": "audio_0196"
+      },
+      {
+       "ita": "Panino vegetariano",
+       "chn": "素帕尼尼",
+       "extra": "veg",
+       "subsection": "5.1 三明治与卷饼",
+       "section": "第5部分 · 第5部分 · 🥪 食物与轻食",
+       "id": "audio_0197"
+      },
+      {
+       "ita": "Toast",
+       "chn": "烤三明",
+       "extra": "grigliato",
+       "subsection": "5.1 三明治与卷饼",
+       "section": "第5部分 · 第5部分 · 🥪 食物与轻食",
+       "id": "audio_0198"
+      },
+      {
+       "ita": "Bruschetta",
+       "chn": "蒜香面包",
+       "extra": "番茄顶",
+       "subsection": "5.1 三明治与卷饼",
+       "section": "第5部分 · 第5部分 · 🥪 食物与轻食",
+       "id": "audio_0199"
+      },
+      {
+       "ita": "Panino con bresaola",
+       "chn": "风干牛肉卷",
+       "extra": "nord",
+       "subsection": "5.1 三明治与卷饼",
+       "section": "第5部分 · 第5部分 · 🥪 食物与轻食",
+       "id": "audio_0200"
+      }
+     ]
+    },
+    {
+     "title": "5.2 小食与拼盘",
+     "entries": [
+      {
+       "ita": "Tagliere misto",
+       "chn": "混合拼盘",
+       "extra": "salumi+formaggi",
+       "subsection": "5.2 小食与拼盘",
+       "section": "第5部分 · 第5部分 · 🥪 食物与轻食",
+       "id": "audio_0201"
+      },
+      {
+       "ita": "Olive",
+       "chn": "橄榄",
+       "extra": "stuzzichino",
+       "subsection": "5.2 小食与拼盘",
+       "section": "第5部分 · 第5部分 · 🥪 食物与轻食",
+       "id": "audio_0202"
+      },
+      {
+       "ita": "Patatine",
+       "chn": "薯片",
+       "extra": "crisps",
+       "subsection": "5.2 小食与拼盘",
+       "section": "第5部分 · 第5部分 · 🥪 食物与轻食",
+       "id": "audio_0203"
+      },
+      {
+       "ita": "Arachidi",
+       "chn": "花生",
+       "extra": "bar",
+       "subsection": "5.2 小食与拼盘",
+       "section": "第5部分 · 第5部分 · 🥪 食物与轻食",
+       "id": "audio_0204"
+      },
+      {
+       "ita": "Stuzzichini",
+       "chn": "开胃小食",
+       "extra": "aperitivo",
+       "subsection": "5.2 小食与拼盘",
+       "section": "第5部分 · 第5部分 · 🥪 食物与轻食",
+       "id": "audio_0205"
+      },
+      {
+       "ita": "Pizzetta margherita",
+       "chn": "玛格小披萨",
+       "extra": "classic",
+       "subsection": "5.2 小食与拼盘",
+       "section": "第5部分 · 第5部分 · 🥪 食物与轻食",
+       "id": "audio_0206"
+      },
+      {
+       "ita": "Focaccia al rosmarino",
+       "chn": "迷迭香佛卡夏",
+       "extra": "herb",
+       "subsection": "5.2 小食与拼盘",
+       "section": "第5部分 · 第5部分 · 🥪 食物与轻食",
+       "id": "audio_0207"
+      },
+      {
+       "ita": "Formaggio",
+       "chn": "奶酪",
+       "extra": "formaggi",
+       "subsection": "5.2 小食与拼盘",
+       "section": "第5部分 · 第5部分 · 🥪 食物与轻食",
+       "id": "audio_0208"
+      },
+      {
+       "ita": "Salumi",
+       "chn": "冷切肉",
+       "extra": "salame",
+       "subsection": "5.2 小食与拼盘",
+       "section": "第5部分 · 第5部分 · 🥪 食物与轻食",
+       "id": "audio_0209"
+      },
+      {
+       "ita": "Bruschette varie",
+       "chn": "各式脆包",
+       "extra": "vari",
+       "subsection": "5.2 小食与拼盘",
+       "section": "第5部分 · 第5部分 · 🥪 食物与轻食",
+       "id": "audio_0210"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "第6部分 · 第6部分 · 💬 场景精华对话",
+   "subsections": [
+    {
+     "title": "场景一：📋 吧台点单",
+     "entries": [
+      {
+       "ita": "Buongiorno, un caffè per favore",
+       "chn": "您好，一杯咖啡",
+       "extra": "☕",
+       "subsection": "场景一：📋 吧台点单",
+       "section": "第6部分 · 第6部分 · 💬 场景精华对话",
+       "id": "audio_0211"
+      },
+      {
+       "ita": "Al banco o al tavolo?",
+       "chn": "吧台还是坐桌？",
+       "extra": "🧑‍🍳",
+       "subsection": "场景一：📋 吧台点单",
+       "section": "第6部分 · 第6部分 · 💬 场景精华对话",
+       "id": "audio_0212"
+      },
+      {
+       "ita": "Al banco, grazie",
+       "chn": "吧台，谢谢",
+       "extra": "☕",
+       "subsection": "场景一：📋 吧台点单",
+       "section": "第6部分 · 第6部分 · 💬 场景精华对话",
+       "id": "audio_0213"
+      },
+      {
+       "ita": "Macchiato caldo, per favore",
+       "chn": "热脏咖啡",
+       "extra": "☕",
+       "subsection": "场景一：📋 吧台点单",
+       "section": "第6部分 · 第6部分 · 💬 场景精华对话",
+       "id": "audio_0214"
+      },
+      {
+       "ita": "Subito",
+       "chn": "马上",
+       "extra": "🧑‍🍳",
+       "subsection": "场景一：📋 吧台点单",
+       "section": "第6部分 · 第6部分 · 💬 场景精华对话",
+       "id": "audio_0215"
+      },
+      {
+       "ita": "Quanto è?",
+       "chn": "多少钱？",
+       "extra": "☕",
+       "subsection": "场景一：📋 吧台点单",
+       "section": "第6部分 · 第6部分 · 💬 场景精华对话",
+       "id": "audio_0216"
+      },
+      {
+       "ita": "Un euro e venti",
+       "chn": "一块二",
+       "extra": "🧑‍🍳",
+       "subsection": "场景一：📋 吧台点单",
+       "section": "第6部分 · 第6部分 · 💬 场景精华对话",
+       "id": "audio_0217"
+      },
+      {
+       "ita": "Posso pagare con carta?",
+       "chn": "能刷卡吗？",
+       "extra": "☕",
+       "subsection": "场景一：📋 吧台点单",
+       "section": "第6部分 · 第6部分 · 💬 场景精华对话",
+       "id": "audio_0218"
+      }
+     ]
+    },
+    {
+     "title": "场景二：🪑 坐下服务",
+     "entries": [
+      {
+       "ita": "Buonasera, un tavolo per due",
+       "chn": "晚上好，两人桌",
+       "extra": "🧑",
+       "subsection": "场景二：🪑 坐下服务",
+       "section": "第6部分 · 第6部分 · 💬 场景精华对话",
+       "id": "audio_0219"
+      },
+      {
+       "ita": "Prego, da questa parte",
+       "chn": "这边请",
+       "extra": "🧑‍🍳",
+       "subsection": "场景二：🪑 坐下服务",
+       "section": "第6部分 · 第6部分 · 💬 场景精华对话",
+       "id": "audio_0220"
+      },
+      {
+       "ita": "Due cappuccini e due cornetti",
+       "chn": "两个卡布两个牛角",
+       "extra": "🧑",
+       "subsection": "场景二：🪑 坐下服务",
+       "section": "第6部分 · 第6部分 · 💬 场景精华对话",
+       "id": "audio_0221"
+      },
+      {
+       "ita": "Sedete pure all’aperto",
+       "chn": "可坐露天",
+       "extra": "🧑‍🍳",
+       "subsection": "场景二：🪑 坐下服务",
+       "section": "第6部分 · 第6部分 · 💬 场景精华对话",
+       "id": "audio_0222"
+      },
+      {
+       "ita": "Porto subito",
+       "chn": "马上送",
+       "extra": "🧑‍🍳",
+       "subsection": "场景二：🪑 坐下服务",
+       "section": "第6部分 · 第6部分 · 💬 场景精华对话",
+       "id": "audio_0223"
+      },
+      {
+       "ita": "Il conto, per favore",
+       "chn": "买单",
+       "extra": "🧑",
+       "subsection": "场景二：🪑 坐下服务",
+       "section": "第6部分 · 第6部分 · 💬 场景精华对话",
+       "id": "audio_0224"
+      },
+      {
+       "ita": "Sono otto euro",
+       "chn": "八块",
+       "extra": "🧑‍🍳",
+       "subsection": "场景二：🪑 坐下服务",
+       "section": "第6部分 · 第6部分 · 💬 场景精华对话",
+       "id": "audio_0225"
+      }
+     ]
+    },
+    {
+     "title": "场景三：🍹 开胃酒时光",
+     "entries": [
+      {
+       "ita": "Che aperitivo prendiamo?",
+       "chn": "喝什么开胃？",
+       "extra": "🧑",
+       "subsection": "场景三：🍹 开胃酒时光",
+       "section": "第6部分 · 第6部分 · 💬 场景精华对话",
+       "id": "audio_0226"
+      },
+      {
+       "ita": "Uno spritz per me",
+       "chn": "我要斯普利茨",
+       "extra": "🧑",
+       "subsection": "场景三：🍹 开胃酒时光",
+       "section": "第6部分 · 第6部分 · 💬 场景精华对话",
+       "id": "audio_0227"
+      },
+      {
+       "ita": "Un prosecco per lei",
+       "chn": "她要普罗塞克",
+       "extra": "🧑",
+       "subsection": "场景三：🍹 开胃酒时光",
+       "section": "第6部分 · 第6部分 · 💬 场景精华对话",
+       "id": "audio_0228"
+      },
+      {
+       "ita": "Con olive o patatine?",
+       "chn": "配橄榄还是薯片？",
+       "extra": "🧑‍🍳",
+       "subsection": "场景三：🍹 开胃酒时光",
+       "section": "第6部分 · 第6部分 · 💬 场景精华对话",
+       "id": "audio_0229"
+      },
+      {
+       "ita": "Olive, grazie",
+       "chn": "橄榄，谢谢",
+       "extra": "🧑",
+       "subsection": "场景三：🍹 开胃酒时光",
+       "section": "第6部分 · 第6部分 · 💬 场景精华对话",
+       "id": "audio_0230"
+      },
+      {
+       "ita": "Brindiamo!",
+       "chn": "干杯！",
+       "extra": "🧑",
+       "subsection": "场景三：🍹 开胃酒时光",
+       "section": "第6部分 · 第6部分 · 💬 场景精华对话",
+       "id": "audio_0231"
+      },
+      {
+       "ita": "Alla salute!",
+       "chn": "为健康！",
+       "extra": "🧑",
+       "subsection": "场景三：🍹 开胃酒时光",
+       "section": "第6部分 · 第6部分 · 💬 场景精华对话",
+       "id": "audio_0232"
+      }
+     ]
+    },
+    {
+     "title": "场景四：💶 付款结账",
+     "entries": [
+      {
+       "ita": "Il conto, per favore",
+       "chn": "买单，谢谢",
+       "extra": "🧑",
+       "subsection": "场景四：💶 付款结账",
+       "section": "第6部分 · 第6部分 · 💬 场景精华对话",
+       "id": "audio_0233"
+      },
+      {
+       "ita": "Sono quattordici euro",
+       "chn": "十四欧",
+       "extra": "🧑‍🍳",
+       "subsection": "场景四：💶 付款结账",
+       "section": "第6部分 · 第6部分 · 💬 场景精华对话",
+       "id": "audio_0234"
+      },
+      {
+       "ita": "Faccio con carta",
+       "chn": "我刷卡",
+       "extra": "🧑",
+       "subsection": "场景四：💶 付款结账",
+       "section": "第6部分 · 第6部分 · 💬 场景精华对话",
+       "id": "audio_0235"
+      },
+      {
+       "ita": "Può fare il POS?",
+       "chn": "能刷卡机吗？",
+       "extra": "🧑",
+       "subsection": "场景四：💶 付款结账",
+       "section": "第6部分 · 第6部分 · 💬 场景精华对话",
+       "id": "audio_0236"
+      },
+      {
+       "ita": "Certo, mi dia la carta",
+       "chn": "可以，给卡",
+       "extra": "🧑‍🍳",
+       "subsection": "场景四：💶 付款结账",
+       "section": "第6部分 · 第6部分 · 💬 场景精华对话",
+       "id": "audio_0237"
+      },
+      {
+       "ita": "Tenere il resto",
+       "chn": "零钱留着",
+       "extra": "🧑",
+       "subsection": "场景四：💶 付款结账",
+       "section": "第6部分 · 第6部分 · 💬 场景精华对话",
+       "id": "audio_0238"
+      },
+      {
+       "ita": "Grazie, a domani!",
+       "chn": "谢谢，明天见！",
+       "extra": "🧑‍🍳",
+       "subsection": "场景四：💶 付款结账",
+       "section": "第6部分 · 第6部分 · 💬 场景精华对话",
+       "id": "audio_0239"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "第7部分 · 第7部分 · 🔧 万能句型速查",
+   "subsections": [
+    {
+     "title": "7.1 进门第一句",
+     "entries": [
+      {
+       "ita": "Buongiorno, un caffè",
+       "chn": "您好，一杯咖啡",
+       "extra": "🟢",
+       "subsection": "7.1 进门第一句",
+       "section": "第7部分 · 第7部分 · 🔧 万能句型速查",
+       "id": "audio_0240"
+      },
+      {
+       "ita": "Buonasera, un tavolo per due",
+       "chn": "晚上好，两人桌",
+       "extra": "🟢",
+       "subsection": "7.1 进门第一句",
+       "section": "第7部分 · 第7部分 · 🔧 万能句型速查",
+       "id": "audio_0241"
+      },
+      {
+       "ita": "Uno spritz, per favore",
+       "chn": "一杯斯普利茨",
+       "extra": "🟢",
+       "subsection": "7.1 进门第一句",
+       "section": "第7部分 · 第7部分 · 🔧 万能句型速查",
+       "id": "audio_0242"
+      },
+      {
+       "ita": "Solo un espresso, grazie",
+       "chn": "只要浓缩，谢谢",
+       "extra": "🟢",
+       "subsection": "7.1 进门第一句",
+       "section": "第7部分 · 第7部分 · 🔧 万能句型速查",
+       "id": "audio_0243"
+      },
+      {
+       "ita": "Posso sedermi?",
+       "chn": "可以坐吗？",
+       "extra": "🟢",
+       "subsection": "7.1 进门第一句",
+       "section": "第7部分 · 第7部分 · 🔧 万能句型速查",
+       "id": "audio_0244"
+      },
+      {
+       "ita": "È libero questo tavolo?",
+       "chn": "这桌空吗？",
+       "extra": "🟢",
+       "subsection": "7.1 进门第一句",
+       "section": "第7部分 · 第7部分 · 🔧 万能句型速查",
+       "id": "audio_0245"
+      },
+      {
+       "ita": "Vorrei ordinare",
+       "chn": "我想点单",
+       "extra": "🟢",
+       "subsection": "7.1 进门第一句",
+       "section": "第7部分 · 第7部分 · 🔧 万能句型速查",
+       "id": "audio_0246"
+      }
+     ]
+    },
+    {
+     "title": "7.2 点咖啡",
+     "entries": [
+      {
+       "ita": "Un cappuccino, per favore",
+       "chn": "卡布奇诺",
+       "extra": "🔵",
+       "subsection": "7.2 点咖啡",
+       "section": "第7部分 · 第7部分 · 🔧 万能句型速查",
+       "id": "audio_0247"
+      },
+      {
+       "ita": "Un macchiato caldo",
+       "chn": "热脏咖啡",
+       "extra": "🔵",
+       "subsection": "7.2 点咖啡",
+       "section": "第7部分 · 第7部分 · 🔧 万能句型速查",
+       "id": "audio_0248"
+      },
+      {
+       "ita": "Un caffè lungo, grazie",
+       "chn": "加长浓缩",
+       "extra": "🔵",
+       "subsection": "7.2 点咖啡",
+       "section": "第7部分 · 第7部分 · 🔧 万能句型速查",
+       "id": "audio_0249"
+      },
+      {
+       "ita": "Un americano, per favore",
+       "chn": "美式",
+       "extra": "🔵",
+       "subsection": "7.2 点咖啡",
+       "section": "第7部分 · 第7部分 · 🔧 万能句型速查",
+       "id": "audio_0250"
+      },
+      {
+       "ita": "Un decaffeinato, grazie",
+       "chn": "低因",
+       "extra": "🔵",
+       "subsection": "7.2 点咖啡",
+       "section": "第7部分 · 第7部分 · 🔧 万能句型速查",
+       "id": "audio_0251"
+      },
+      {
+       "ita": "Con poco zucchero",
+       "chn": "少糖",
+       "extra": "🔵",
+       "subsection": "7.2 点咖啡",
+       "section": "第7部分 · 第7部分 · 🔧 万能句型速查",
+       "id": "audio_0252"
+      },
+      {
+       "ita": "Senza zucchero",
+       "chn": "不加糖",
+       "extra": "🔵",
+       "subsection": "7.2 点咖啡",
+       "section": "第7部分 · 第7部分 · 🔧 万能句型速查",
+       "id": "audio_0253"
+      }
+     ]
+    },
+    {
+     "title": "7.3 点酒水",
+     "entries": [
+      {
+       "ita": "Un bicchiere di vino rosso",
+       "chn": "一杯红酒",
+       "extra": "🟡",
+       "subsection": "7.3 点酒水",
+       "section": "第7部分 · 第7部分 · 🔧 万能句型速查",
+       "id": "audio_0254"
+      },
+      {
+       "ita": "Una birra alla spina",
+       "chn": "一杯生啤",
+       "extra": "🟡",
+       "subsection": "7.3 点酒水",
+       "section": "第7部分 · 第7部分 · 🔧 万能句型速查",
+       "id": "audio_0255"
+      },
+      {
+       "ita": "Un negroni, per favore",
+       "chn": "尼格罗尼",
+       "extra": "🟡",
+       "subsection": "7.3 点酒水",
+       "section": "第7部分 · 第7部分 · 🔧 万能句型速查",
+       "id": "audio_0256"
+      },
+      {
+       "ita": "Un prosecco, grazie",
+       "chn": "普罗塞克",
+       "extra": "🟡",
+       "subsection": "7.3 点酒水",
+       "section": "第7部分 · 第7部分 · 🔧 万能句型速查",
+       "id": "audio_0257"
+      },
+      {
+       "ita": "Con ghiaccio, per favore",
+       "chn": "加冰",
+       "extra": "🟡",
+       "subsection": "7.3 点酒水",
+       "section": "第7部分 · 第7部分 · 🔧 万能句型速查",
+       "id": "audio_0258"
+      },
+      {
+       "ita": "Senza alcool",
+       "chn": "无酒精",
+       "extra": "🟡",
+       "subsection": "7.3 点酒水",
+       "section": "第7部分 · 第7部分 · 🔧 万能句型速查",
+       "id": "audio_0259"
+      }
+     ]
+    },
+    {
+     "title": "7.4 价格与时间",
+     "entries": [
+      {
+       "ita": "Quanto costa?",
+       "chn": "多少钱？",
+       "extra": "🟠",
+       "subsection": "7.4 价格与时间",
+       "section": "第7部分 · 第7部分 · 🔧 万能句型速查",
+       "id": "audio_0260"
+      },
+      {
+       "ita": "Quanto viene in totale?",
+       "chn": "一共多少？",
+       "extra": "🟠",
+       "subsection": "7.4 价格与时间",
+       "section": "第7部分 · 第7部分 · 🔧 万能句型速查",
+       "id": "audio_0261"
+      },
+      {
+       "ita": "Accettate carte?",
+       "chn": "收卡吗？",
+       "extra": "🟠",
+       "subsection": "7.4 价格与时间",
+       "section": "第7部分 · 第7部分 · 🔧 万能句型速查",
+       "id": "audio_0262"
+      },
+      {
+       "ita": "Posso pagare dopo?",
+       "chn": "能后付吗？",
+       "extra": "🟠",
+       "subsection": "7.4 价格与时间",
+       "section": "第7部分 · 第7部分 · 🔧 万能句型速查",
+       "id": "audio_0263"
+      },
+      {
+       "ita": "C’è il coperto?",
+       "chn": "有座位费吗？",
+       "extra": "🟠",
+       "subsection": "7.4 价格与时间",
+       "section": "第7部分 · 第7部分 · 🔧 万能句型速查",
+       "id": "audio_0264"
+      },
+      {
+       "ita": "Quanto tempo per il caffè?",
+       "chn": "咖啡要多久？",
+       "extra": "🟠",
+       "subsection": "7.4 价格与时间",
+       "section": "第7部分 · 第7部分 · 🔧 万能句型速查",
+       "id": "audio_0265"
+      }
+     ]
+    },
+    {
+     "title": "7.5 满意与修改",
+     "entries": [
+      {
+       "ita": "Buonissimo, grazie",
+       "chn": "很好喝，谢谢",
+       "extra": "🔴",
+       "subsection": "7.5 满意与修改",
+       "section": "第7部分 · 第7部分 · 🔧 万能句型速查",
+       "id": "audio_0266"
+      },
+      {
+       "ita": "Un po’ più caldo?",
+       "chn": "再热点？",
+       "extra": "🔴",
+       "subsection": "7.5 满意与修改",
+       "section": "第7部分 · 第7部分 · 🔧 万能句型速查",
+       "id": "audio_0267"
+      },
+      {
+       "ita": "È perfetto così",
+       "chn": "这样就完美",
+       "extra": "🔴",
+       "subsection": "7.5 满意与修改",
+       "section": "第7部分 · 第7部分 · 🔧 万能句型速查",
+       "id": "audio_0268"
+      },
+      {
+       "ita": "Mi è piaciuto molto",
+       "chn": "我很喜欢",
+       "extra": "🔴",
+       "subsection": "7.5 满意与修改",
+       "section": "第7部分 · 第7部分 · 🔧 万能句型速查",
+       "id": "audio_0269"
+      },
+      {
+       "ita": "La prossima volta più lungo",
+       "chn": "下次更长",
+       "extra": "🔴",
+       "subsection": "7.5 满意与修改",
+       "section": "第7部分 · 第7部分 · 🔧 万能句型速查",
+       "id": "audio_0270"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "第8部分 · 第8部分 · 🇮🇹 意大利酒吧文化贴士",
+   "subsections": [
+    {
+     "title": "8.1 站与坐文化",
+     "entries": [
+      {
+       "ita": "Al banco è più economico",
+       "chn": "吧台更便宜",
+       "extra": "常差一半",
+       "subsection": "8.1 站与坐文化",
+       "section": "第8部分 · 第8部分 · 🇮🇹 意大利酒吧文化贴士",
+       "id": "audio_0271"
+      },
+      {
+       "ita": "Italiani bevono in piedi",
+       "chn": "意大利人站着喝",
+       "extra": "文化",
+       "subsection": "8.1 站与坐文化",
+       "section": "第8部分 · 第8部分 · 🇮🇹 意大利酒吧文化贴士",
+       "id": "audio_0272"
+      },
+      {
+       "ita": "Cappuccino solo al mattino",
+       "chn": "卡布仅早晨",
+       "extra": "11点后不点",
+       "subsection": "8.1 站与坐文化",
+       "section": "第8部分 · 第8部分 · 🇮🇹 意大利酒吧文化贴士",
+       "id": "audio_0273"
+      },
+      {
+       "ita": "Dopo i pasti solo caffè",
+       "chn": "饭后只喝浓缩",
+       "extra": "digestivo",
+       "subsection": "8.1 站与坐文化",
+       "section": "第8部分 · 第8部分 · 🇮🇹 意大利酒吧文化贴士",
+       "id": "audio_0274"
+      },
+      {
+       "ita": "Niente caffè da passeggio",
+       "chn": "没有外带杯",
+       "extra": "现喝现走",
+       "subsection": "8.1 站与坐文化",
+       "section": "第8部分 · 第8部分 · 🇮🇹 意大利酒吧文化贴士",
+       "id": "audio_0275"
+      },
+      {
+       "ita": "La domenica mattina pieno",
+       "chn": "周日早晨爆满",
+       "extra": "colazione",
+       "subsection": "8.1 站与坐文化",
+       "section": "第8部分 · 第8部分 · 🇮🇹 意大利酒吧文化贴士",
+       "id": "audio_0276"
+      }
+     ]
+    },
+    {
+     "title": "8.2 价格参考",
+     "entries": [
+      {
+       "ita": "Caffè al banco 1-1,5€",
+       "chn": "吧台咖啡 1-1.5欧",
+       "extra": "base",
+       "subsection": "8.2 价格参考",
+       "section": "第8部分 · 第8部分 · 🇮🇹 意大利酒吧文化贴士",
+       "id": "audio_0277"
+      },
+      {
+       "ita": "Cappuccino 1,5-2€",
+       "chn": "卡布 1.5-2欧",
+       "extra": "mattina",
+       "subsection": "8.2 价格参考",
+       "section": "第8部分 · 第8部分 · 🇮🇹 意大利酒吧文化贴士",
+       "id": "audio_0278"
+      },
+      {
+       "ita": "Al tavolo +1-2€",
+       "chn": "坐桌加 1-2欧",
+       "extra": "servizio",
+       "subsection": "8.2 价格参考",
+       "section": "第8部分 · 第8部分 · 🇮🇹 意大利酒吧文化贴士",
+       "id": "audio_0279"
+      },
+      {
+       "ita": "Spritz 5-8€",
+       "chn": "斯普利茨 5-8欧",
+       "extra": "aperitivo",
+       "subsection": "8.2 价格参考",
+       "section": "第8部分 · 第8部分 · 🇮🇹 意大利酒吧文化贴士",
+       "id": "audio_0280"
+      },
+      {
+       "ita": "Cornetto 1-2€",
+       "chn": "牛角 1-2欧",
+       "extra": "colazione",
+       "subsection": "8.2 价格参考",
+       "section": "第8部分 · 第8部分 · 🇮🇹 意大利酒吧文化贴士",
+       "id": "audio_0281"
+      },
+      {
+       "ita": "Acqua 1-2€",
+       "chn": "水 1-2欧",
+       "extra": "bottiglia",
+       "subsection": "8.2 价格参考",
+       "section": "第8部分 · 第8部分 · 🇮🇹 意大利酒吧文化贴士",
+       "id": "audio_0282"
+      }
+     ]
+    },
+    {
+     "title": "8.3 小费礼仪",
+     "entries": [
+      {
+       "ita": "Mancia non obbligatoria",
+       "chn": "小费非强制",
+       "extra": "意大利",
+       "subsection": "8.3 小费礼仪",
+       "section": "第8部分 · 第8部分 · 🇮🇹 意大利酒吧文化贴士",
+       "id": "audio_0283"
+      },
+      {
+       "ita": "Arrotonda i spiccioli",
+       "chn": "凑整零钱",
+       "extra": "1-2欧",
+       "subsection": "8.3 小费礼仪",
+       "section": "第8部分 · 第8部分 · 🇮🇹 意大利酒吧文化贴士",
+       "id": "audio_0284"
+      },
+      {
+       "ita": "Al tavolo già servito",
+       "chn": "坐桌已含服务",
+       "extra": "不再给",
+       "subsection": "8.3 小费礼仪",
+       "section": "第8部分 · 第8部分 · 🇮🇹 意大利酒吧文化贴士",
+       "id": "audio_0285"
+      },
+      {
+       "ita": "Un grazie basta",
+       "chn": "说谢谢即可",
+       "extra": "文化",
+       "subsection": "8.3 小费礼仪",
+       "section": "第8部分 · 第8部分 · 🇮🇹 意大利酒吧文化贴士",
+       "id": "audio_0286"
+      }
+     ]
+    },
+    {
+     "title": "8.4 早餐与日常",
+     "entries": [
+      {
+       "ita": "Colazione = caffè + cornetto",
+       "chn": "早餐=咖啡+牛角",
+       "extra": "经典",
+       "subsection": "8.4 早餐与日常",
+       "section": "第8部分 · 第8部分 · 🇮🇹 意大利酒吧文化贴士",
+       "id": "audio_0287"
+      },
+      {
+       "ita": "Pausa metà mattina",
+       "chn": "上午茶歇",
+       "extra": "break",
+       "subsection": "8.4 早餐与日常",
+       "section": "第8部分 · 第8部分 · 🇮🇹 意大利酒吧文化贴士",
+       "id": "audio_0288"
+      },
+      {
+       "ita": "Aperitivo prima di cena",
+       "chn": "餐前开胃",
+       "extra": "18-20点",
+       "subsection": "8.4 早餐与日常",
+       "section": "第8部分 · 第8部分 · 🇮🇹 意大利酒吧文化贴士",
+       "id": "audio_0289"
+      },
+      {
+       "ita": "Caffè dopo pranzo",
+       "chn": "饭后咖啡",
+       "extra": "digestione",
+       "subsection": "8.4 早餐与日常",
+       "section": "第8部分 · 第8部分 · 🇮🇹 意大利酒吧文化贴士",
+       "id": "audio_0290"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "第9部分 · 第9部分 · 🗣️ 高频填充词与口语",
+   "subsections": [
+    {
+     "title": "9.1 自然说话的秘诀——填充词",
+     "entries": [
+      {
+       "ita": "Allora",
+       "chn": "那么 / 那个",
+       "extra": "开场",
+       "subsection": "9.1 自然说话的秘诀——填充词",
+       "section": "第9部分 · 第9部分 · 🗣️ 高频填充词与口语",
+       "id": "audio_0291"
+      },
+      {
+       "ita": "Quindi",
+       "chn": "所以",
+       "extra": "连接",
+       "subsection": "9.1 自然说话的秘诀——填充词",
+       "section": "第9部分 · 第9部分 · 🗣️ 高频填充词与口语",
+       "id": "audio_0292"
+      },
+      {
+       "ita": "Insomma",
+       "chn": "总之",
+       "extra": "收尾",
+       "subsection": "9.1 自然说话的秘诀——填充词",
+       "section": "第9部分 · 第9部分 · 🗣️ 高频填充词与口语",
+       "id": "audio_0293"
+      },
+      {
+       "ita": "Praticamente",
+       "chn": "其实",
+       "extra": "口语",
+       "subsection": "9.1 自然说话的秘诀——填充词",
+       "section": "第9部分 · 第9部分 · 🗣️ 高频填充词与口语",
+       "id": "audio_0294"
+      },
+      {
+       "ita": "Cioè",
+       "chn": "也就是说",
+       "extra": "解释",
+       "subsection": "9.1 自然说话的秘诀——填充词",
+       "section": "第9部分 · 第9部分 · 🗣️ 高频填充词与口语",
+       "id": "audio_0295"
+      },
+      {
+       "ita": "Tipo",
+       "chn": "比如",
+       "extra": "举例",
+       "subsection": "9.1 自然说话的秘诀——填充词",
+       "section": "第9部分 · 第9部分 · 🗣️ 高频填充词与口语",
+       "id": "audio_0296"
+      },
+      {
+       "ita": "Mah",
+       "chn": "嗯…",
+       "extra": "犹豫",
+       "subsection": "9.1 自然说话的秘诀——填充词",
+       "section": "第9部分 · 第9部分 · 🗣️ 高频填充词与口语",
+       "id": "audio_0297"
+      },
+      {
+       "ita": "Boh",
+       "chn": "不知道",
+       "extra": "随意",
+       "subsection": "9.1 自然说话的秘诀——填充词",
+       "section": "第9部分 · 第9部分 · 🗣️ 高频填充词与口语",
+       "id": "audio_0298"
+      },
+      {
+       "ita": "Ecco",
+       "chn": "喏 / 就是",
+       "extra": "指物",
+       "subsection": "9.1 自然说话的秘诀——填充词",
+       "section": "第9部分 · 第9部分 · 🗣️ 高频填充词与口语",
+       "id": "audio_0299"
+      },
+      {
+       "ita": "Dai",
+       "chn": "来吧",
+       "extra": "鼓励",
+       "subsection": "9.1 自然说话的秘诀——填充词",
+       "section": "第9部分 · 第9部分 · 🗣️ 高频填充词与口语",
+       "id": "audio_0300"
+      },
+      {
+       "ita": "Senti",
+       "chn": "听我说",
+       "extra": "引起注意",
+       "subsection": "9.1 自然说话的秘诀——填充词",
+       "section": "第9部分 · 第9部分 · 🗣️ 高频填充词与口语",
+       "id": "audio_0301"
+      },
+      {
+       "ita": "Guarda",
+       "chn": "你看",
+       "extra": "指物",
+       "subsection": "9.1 自然说话的秘诀——填充词",
+       "section": "第9部分 · 第9部分 · 🗣️ 高频填充词与口语",
+       "id": "audio_0302"
+      },
+      {
+       "ita": "Però",
+       "chn": "不过",
+       "extra": "转折",
+       "subsection": "9.1 自然说话的秘诀——填充词",
+       "section": "第9部分 · 第9部分 · 🗣️ 高频填充词与口语",
+       "id": "audio_0303"
+      },
+      {
+       "ita": "Comunque",
+       "chn": "反正",
+       "extra": "总结",
+       "subsection": "9.1 自然说话的秘诀——填充词",
+       "section": "第9部分 · 第9部分 · 🗣️ 高频填充词与口语",
+       "id": "audio_0304"
+      },
+      {
+       "ita": "Magari",
+       "chn": "但愿",
+       "extra": "愿望",
+       "subsection": "9.1 自然说话的秘诀——填充词",
+       "section": "第9部分 · 第9部分 · 🗣️ 高频填充词与口语",
+       "id": "audio_0305"
+      },
+      {
+       "ita": "Va be’",
+       "chn": "好吧",
+       "extra": "让步",
+       "subsection": "9.1 自然说话的秘诀——填充词",
+       "section": "第9部分 · 第9部分 · 🗣️ 高频填充词与口语",
+       "id": "audio_0306"
+      },
+      {
+       "ita": "Proprio",
+       "chn": "真的",
+       "extra": "强调",
+       "subsection": "9.1 自然说话的秘诀——填充词",
+       "section": "第9部分 · 第9部分 · 🗣️ 高频填充词与口语",
+       "id": "audio_0307"
+      },
+      {
+       "ita": "Certo",
+       "chn": "当然",
+       "extra": "肯定",
+       "subsection": "9.1 自然说话的秘诀——填充词",
+       "section": "第9部分 · 第9部分 · 🗣️ 高频填充词与口语",
+       "id": "audio_0308"
+      },
+      {
+       "ita": "Esatto",
+       "chn": "没错",
+       "extra": "赞同",
+       "subsection": "9.1 自然说话的秘诀——填充词",
+       "section": "第9部分 · 第9部分 · 🗣️ 高频填充词与口语",
+       "id": "audio_0309"
+      },
+      {
+       "ita": "Figurati",
+       "chn": "哪里的话",
+       "extra": "客气",
+       "subsection": "9.1 自然说话的秘诀——填充词",
+       "section": "第9部分 · 第9部分 · 🗣️ 高频填充词与口语",
+       "id": "audio_0310"
+      }
+     ]
+    },
+    {
+     "title": "9.2 正式 vs 非正式",
+     "entries": [
+      {
+       "ita": "Lei / tu",
+       "chn": "您 / 你",
+       "extra": "对客用 Lei",
+       "subsection": "9.2 正式 vs 非正式",
+       "section": "第9部分 · 第9部分 · 🗣️ 高频填充词与口语",
+       "id": "audio_0311"
+      },
+      {
+       "ita": "Vorrei / Voglio",
+       "chn": "我想（礼）/ 我要",
+       "extra": "用 Vorrei",
+       "subsection": "9.2 正式 vs 非正式",
+       "section": "第9部分 · 第9部分 · 🗣️ 高频填充词与口语",
+       "id": "audio_0312"
+      },
+      {
+       "ita": "Desidera? / Che vuoi?",
+       "chn": "您要？/ 你要？",
+       "extra": "用 Desidera",
+       "subsection": "9.2 正式 vs 非正式",
+       "section": "第9部分 · 第9部分 · 🗣️ 高频填充词与口语",
+       "id": "audio_0313"
+      },
+      {
+       "ita": "Si accomodi / Siediti",
+       "chn": "请坐（礼）/ 坐",
+       "extra": "用 Si accomodi",
+       "subsection": "9.2 正式 vs 非正式",
+       "section": "第9部分 · 第9部分 · 🗣️ 高频填充词与口语",
+       "id": "audio_0314"
+      },
+      {
+       "ita": "Grazie a Lei / Grazie a te",
+       "chn": "谢您 / 谢你",
+       "extra": "对应",
+       "subsection": "9.2 正式 vs 非正式",
+       "section": "第9部分 · 第9部分 · 🗣️ 高频填充词与口语",
+       "id": "audio_0315"
+      },
+      {
+       "ita": "Arrivederci / Ciao",
+       "chn": "再见（礼）/ 拜",
+       "extra": "用 Arrivederci",
+       "subsection": "9.2 正式 vs 非正式",
+       "section": "第9部分 · 第9部分 · 🗣️ 高频填充词与口语",
+       "id": "audio_0316"
+      }
+     ]
+    },
+    {
+     "title": "9.3 口语高频表达",
+     "entries": [
+      {
+       "ita": "A posto",
+       "chn": "搞定了",
+       "extra": "完成",
+       "subsection": "9.3 口语高频表达",
+       "section": "第9部分 · 第9部分 · 🗣️ 高频填充词与口语",
+       "id": "audio_0317"
+      },
+      {
+       "ita": "Tutto a posto",
+       "chn": "都好了",
+       "extra": "收尾",
+       "subsection": "9.3 口语高频表达",
+       "section": "第9部分 · 第9部分 · 🗣️ 高频填充词与口语",
+       "id": "audio_0318"
+      },
+      {
+       "ita": "Fai conto",
+       "chn": "你想想",
+       "extra": "打比",
+       "subsection": "9.3 口语高频表达",
+       "section": "第9部分 · 第9部分 · 🗣️ 高频填充词与口语",
+       "id": "audio_0319"
+      },
+      {
+       "ita": "Non ti preoccupare",
+       "chn": "别担心",
+       "extra": "安抚",
+       "subsection": "9.3 口语高频表达",
+       "section": "第9部分 · 第9部分 · 🗣️ 高频填充词与口语",
+       "id": "audio_0320"
+      },
+      {
+       "ita": "Ci siamo",
+       "chn": "成了",
+       "extra": "完成",
+       "subsection": "9.3 口语高频表达",
+       "section": "第9部分 · 第9部分 · 🗣️ 高频填充词与口语",
+       "id": "audio_0321"
+      },
+      {
+       "ita": "Vediamo un po’",
+       "chn": "看下",
+       "extra": "检查",
+       "subsection": "9.3 口语高频表达",
+       "section": "第9部分 · 第9部分 · 🗣️ 高频填充词与口语",
+       "id": "audio_0322"
+      },
+      {
+       "ita": "Che buono!",
+       "chn": "真好吃！",
+       "extra": "夸赞",
+       "subsection": "9.3 口语高频表达",
+       "section": "第9部分 · 第9部分 · 🗣️ 高频填充词与口语",
+       "id": "audio_0323"
+      },
+      {
+       "ita": "Buona giornata!",
+       "chn": "祝好日子！",
+       "extra": "送客",
+       "subsection": "9.3 口语高频表达",
+       "section": "第9部分 · 第9部分 · 🗣️ 高频填充词与口语",
+       "id": "audio_0324"
+      },
+      {
+       "ita": "Alla prossima!",
+       "chn": "下次见！",
+       "extra": "送客",
+       "subsection": "9.3 口语高频表达",
+       "section": "第9部分 · 第9部分 · 🗣️ 高频填充词与口语",
+       "id": "audio_0325"
+      },
+      {
+       "ita": "Buona serata!",
+       "chn": "祝晚上好！",
+       "extra": "送客",
+       "subsection": "9.3 口语高频表达",
+       "section": "第9部分 · 第9部分 · 🗣️ 高频填充词与口语",
+       "id": "audio_0326"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "第10部分 · 第10部分 · 📖 语法要点速记",
+   "subsections": [
+    {
+     "title": "A.1 条件式——Vorrei（我想…）",
+     "entries": [
+      {
+       "ita": "Vorrei un caffè",
+       "chn": "我想喝咖啡",
+       "extra": "点单",
+       "subsection": "A.1 条件式——Vorrei（我想…）",
+       "section": "第10部分 · 第10部分 · 📖 语法要点速记",
+       "id": "audio_0327"
+      },
+      {
+       "ita": "Vorrei uno spritz",
+       "chn": "我想斯普利茨",
+       "extra": "点酒",
+       "subsection": "A.1 条件式——Vorrei（我想…）",
+       "section": "第10部分 · 第10部分 · 📖 语法要点速记",
+       "id": "audio_0328"
+      },
+      {
+       "ita": "Vorrei sedermi al tavolo",
+       "chn": "我想坐桌",
+       "extra": "入座",
+       "subsection": "A.1 条件式——Vorrei（我想…）",
+       "section": "第10部分 · 第10部分 · 📖 语法要点速记",
+       "id": "audio_0329"
+      },
+      {
+       "ita": "Vorrei sapere il conto",
+       "chn": "我想知道账单",
+       "extra": "询问",
+       "subsection": "A.1 条件式——Vorrei（我想…）",
+       "section": "第10部分 · 第10部分 · 📖 语法要点速记",
+       "id": "audio_0330"
+      }
+     ]
+    },
+    {
+     "title": "A.2 命令式——叮嘱与指示",
+     "entries": [
+      {
+       "ita": "Si accomodi qui",
+       "chn": "请坐这边",
+       "extra": "引导",
+       "subsection": "A.2 命令式——叮嘱与指示",
+       "section": "第10部分 · 第10部分 · 📖 语法要点速记",
+       "id": "audio_0331"
+      },
+      {
+       "ita": "Mi dia la carta",
+       "chn": "请给卡",
+       "extra": "付款",
+       "subsection": "A.2 命令式——叮嘱与指示",
+       "section": "第10部分 · 第10部分 · 📖 语法要点速记",
+       "id": "audio_0332"
+      },
+      {
+       "ita": "Resti pure seduto",
+       "chn": "您坐着",
+       "extra": "客气",
+       "subsection": "A.2 命令式——叮嘱与指示",
+       "section": "第10部分 · 第10部分 · 📖 语法要点速记",
+       "id": "audio_0333"
+      },
+      {
+       "ita": "Vada pure",
+       "chn": "您先请",
+       "extra": "礼让",
+       "subsection": "A.2 命令式——叮嘱与指示",
+       "section": "第10部分 · 第10部分 · 📖 语法要点速记",
+       "id": "audio_0334"
+      }
+     ]
+    },
+    {
+     "title": "A.3 反身动词——吧台常用",
+     "entries": [
+      {
+       "ita": "Sedersi",
+       "chn": "坐下",
+       "extra": "mi siedo",
+       "subsection": "A.3 反身动词——吧台常用",
+       "section": "第10部分 · 第10部分 · 📖 语法要点速记",
+       "id": "audio_0335"
+      },
+      {
+       "ita": "Alzarsi",
+       "chn": "起身",
+       "extra": "si alzi",
+       "subsection": "A.3 反身动词——吧台常用",
+       "section": "第10部分 · 第10部分 · 📖 语法要点速记",
+       "id": "audio_0336"
+      },
+      {
+       "ita": "Lavarsi le mani",
+       "chn": "洗手",
+       "extra": "mi lavo",
+       "subsection": "A.3 反身动词——吧台常用",
+       "section": "第10部分 · 第10部分 · 📖 语法要点速记",
+       "id": "audio_0337"
+      },
+      {
+       "ita": "Rilassarsi",
+       "chn": "放松",
+       "extra": "si rilassi",
+       "subsection": "A.3 反身动词——吧台常用",
+       "section": "第10部分 · 第10部分 · 📖 语法要点速记",
+       "id": "audio_0338"
+      },
+      {
+       "ita": "Vestirsi",
+       "chn": "穿衣",
+       "extra": "语境",
+       "subsection": "A.3 反身动词——吧台常用",
+       "section": "第10部分 · 第10部分 · 📖 语法要点速记",
+       "id": "audio_0339"
+      }
+     ]
+    },
+    {
+     "title": "A.4 使役动词——Fare + 动词",
+     "entries": [
+      {
+       "ita": "Faccio il caffè",
+       "chn": "我煮咖啡",
+       "extra": "fare+inf",
+       "subsection": "A.4 使役动词——Fare + 动词",
+       "section": "第10部分 · 第10部分 · 📖 语法要点速记",
+       "id": "audio_0340"
+      },
+      {
+       "ita": "Le faccio vedere",
+       "chn": "我给您看",
+       "extra": "fare+vedere",
+       "subsection": "A.4 使役动词——Fare + 动词",
+       "section": "第10部分 · 第10部分 · 📖 语法要点速记",
+       "id": "audio_0341"
+      },
+      {
+       "ita": "Faccio scaldare",
+       "chn": "我加热",
+       "extra": "fare+inf",
+       "subsection": "A.4 使役动词——Fare + 动词",
+       "section": "第10部分 · 第10部分 · 📖 语法要点速记",
+       "id": "audio_0342"
+      },
+      {
+       "ita": "Fai shine",
+       "chn": "你照灯/摇",
+       "extra": "口语",
+       "subsection": "A.4 使役动词——Fare + 动词",
+       "section": "第10部分 · 第10部分 · 📖 语法要点速记",
+       "id": "audio_0343"
+      },
+      {
+       "ita": "Facciamo dietro?",
+       "chn": "我们做…?",
+       "extra": "语境",
+       "subsection": "A.4 使役动词——Fare + 动词",
+       "section": "第10部分 · 第10部分 · 📖 语法要点速记",
+       "id": "audio_0344"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "all_entries": [
+  {
+   "ita": "Bar",
+   "chn": "咖啡吧 / 小酒馆",
+   "extra": "意大利日常据点",
+   "subsection": "1.1 门店类型与角色",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0001"
+  },
+  {
+   "ita": "Caffè",
+   "chn": "咖啡馆",
+   "extra": "同 bar，偏咖啡",
+   "subsection": "1.1 门店类型与角色",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0002"
+  },
+  {
+   "ita": "Caffetteria",
+   "chn": "咖啡店",
+   "extra": "连锁风",
+   "subsection": "1.1 门店类型与角色",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0003"
+  },
+  {
+   "ita": "Tavola calda",
+   "chn": "热食吧",
+   "extra": "供快餐",
+   "subsection": "1.1 门店类型与角色",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0004"
+  },
+  {
+   "ita": "Pub",
+   "chn": "英式酒吧",
+   "extra": "晚场",
+   "subsection": "1.1 门店类型与角色",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0005"
+  },
+  {
+   "ita": "Barista",
+   "chn": "咖啡师 / 调酒师",
+   "extra": "你要打交道的人",
+   "subsection": "1.1 门店类型与角色",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0006"
+  },
+  {
+   "ita": "Cameriere",
+   "chn": "服务员",
+   "extra": "座席服务",
+   "subsection": "1.1 门店类型与角色",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0007"
+  },
+  {
+   "ita": "Cassiera",
+   "chn": "收银员",
+   "extra": "cassa 处",
+   "subsection": "1.1 门店类型与角色",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0008"
+  },
+  {
+   "ita": "Cliente",
+   "chn": "顾客",
+   "extra": "你",
+   "subsection": "1.1 门店类型与角色",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0009"
+  },
+  {
+   "ita": "Bancone",
+   "chn": "吧台",
+   "extra": "al banco 站饮",
+   "subsection": "1.1 门店类型与角色",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0010"
+  },
+  {
+   "ita": "Cassa",
+   "chn": "收银台",
+   "extra": "先付或后付",
+   "subsection": "1.1 门店类型与角色",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0011"
+  },
+  {
+   "ita": "Scontrino",
+   "chn": "小票",
+   "extra": "法律要求出具",
+   "subsection": "1.1 门店类型与角色",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0012"
+  },
+  {
+   "ita": "Tavolo",
+   "chn": "餐桌",
+   "extra": "al tavolo 更贵",
+   "subsection": "1.1 门店类型与角色",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0013"
+  },
+  {
+   "ita": "Dehors",
+   "chn": "露天座",
+   "extra": "户外座位",
+   "subsection": "1.1 门店类型与角色",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0014"
+  },
+  {
+   "ita": "Macchina del caffè",
+   "chn": "咖啡机",
+   "extra": "espresso 机",
+   "subsection": "1.1 门店类型与角色",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0015"
+  },
+  {
+   "ita": "Macinacaffè",
+   "chn": "磨豆机",
+   "extra": "现磨",
+   "subsection": "1.1 门店类型与角色",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0016"
+  },
+  {
+   "ita": "Macchina espresso",
+   "chn": "意式咖啡机",
+   "extra": "9 bar 压力",
+   "subsection": "1.2 设备与工具",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0017"
+  },
+  {
+   "ita": "Macinacaffè",
+   "chn": "磨豆机",
+   "extra": "新鲜研磨",
+   "subsection": "1.2 设备与工具",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0018"
+  },
+  {
+   "ita": "Montalatte",
+   "chn": "打奶器",
+   "extra": "vapore 蒸汽",
+   "subsection": "1.2 设备与工具",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0019"
+  },
+  {
+   "ita": "Vapore",
+   "chn": "蒸汽",
+   "extra": "打奶泡",
+   "subsection": "1.2 设备与工具",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0020"
+  },
+  {
+   "ita": "Frigorifero",
+   "chn": "冰箱",
+   "extra": "冷藏",
+   "subsection": "1.2 设备与工具",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0021"
+  },
+  {
+   "ita": "Spillatore",
+   "chn": "生啤龙头",
+   "extra": "birra alla spina",
+   "subsection": "1.2 设备与工具",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0022"
+  },
+  {
+   "ita": "Shaker",
+   "chn": "雪克杯",
+   "extra": "调酒",
+   "subsection": "1.2 设备与工具",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0023"
+  },
+  {
+   "ita": "Frullatore",
+   "chn": "搅拌机",
+   "extra": "frullato",
+   "subsection": "1.2 设备与工具",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0024"
+  },
+  {
+   "ita": "Bilancia",
+   "chn": "秤",
+   "extra": "称粉",
+   "subsection": "1.2 设备与工具",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0025"
+  },
+  {
+   "ita": "Timer",
+   "chn": "计时器",
+   "extra": "萃取计时",
+   "subsection": "1.2 设备与工具",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0026"
+  },
+  {
+   "ita": "Pressino",
+   "chn": "压粉锤",
+   "extra": "tamper",
+   "subsection": "1.2 设备与工具",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0027"
+  },
+  {
+   "ita": "Tazza dosata",
+   "chn": "量杯",
+   "extra": "milk",
+   "subsection": "1.2 设备与工具",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0028"
+  },
+  {
+   "ita": "Manopola vapore",
+   "chn": "蒸汽阀",
+   "extra": "控制",
+   "subsection": "1.2 设备与工具",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0029"
+  },
+  {
+   "ita": "Filtro",
+   "chn": "粉碗",
+   "extra": "portafilter",
+   "subsection": "1.2 设备与工具",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0030"
+  },
+  {
+   "ita": "Gruppo",
+   "chn": "冲煮头",
+   "extra": "erogazione",
+   "subsection": "1.2 设备与工具",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0031"
+  },
+  {
+   "ita": "Getto",
+   "chn": "出水口",
+   "extra": "流咖啡",
+   "subsection": "1.2 设备与工具",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0032"
+  },
+  {
+   "ita": "Tazzina",
+   "chn": "小咖啡杯",
+   "extra": "espresso 用",
+   "subsection": "1.3 杯具与耗材",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0033"
+  },
+  {
+   "ita": "Bicchiere",
+   "chn": "玻璃杯",
+   "extra": "水/酒",
+   "subsection": "1.3 杯具与耗材",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0034"
+  },
+  {
+   "ita": "Flûte",
+   "chn": "长笛杯",
+   "extra": "spritz/prosecco",
+   "subsection": "1.3 杯具与耗材",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0035"
+  },
+  {
+   "ita": "Calice",
+   "chn": "红酒杯",
+   "extra": "vino",
+   "subsection": "1.3 杯具与耗材",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0036"
+  },
+  {
+   "ita": "Coppetta",
+   "chn": "小碟",
+   "extra": "olive",
+   "subsection": "1.3 杯具与耗材",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0037"
+  },
+  {
+   "ita": "Cannuccia",
+   "chn": "吸管",
+   "extra": "冷饮",
+   "subsection": "1.3 杯具与耗材",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0038"
+  },
+  {
+   "ita": "Tovagliolo",
+   "chn": "餐巾",
+   "extra": "纸巾",
+   "subsection": "1.3 杯具与耗材",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0039"
+  },
+  {
+   "ita": "Sottobicchiere",
+   "chn": "杯垫",
+   "extra": "防烫",
+   "subsection": "1.3 杯具与耗材",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0040"
+  },
+  {
+   "ita": "Ghiaccio",
+   "chn": "冰块",
+   "extra": "冰饮",
+   "subsection": "1.3 杯具与耗材",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0041"
+  },
+  {
+   "ita": "Cucchiaino",
+   "chn": "小勺",
+   "extra": "搅糖",
+   "subsection": "1.3 杯具与耗材",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0042"
+  },
+  {
+   "ita": "Zuccheriera",
+   "chn": "糖罐",
+   "extra": "糖",
+   "subsection": "1.3 杯具与耗材",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0043"
+  },
+  {
+   "ita": "Lattiera",
+   "chn": "奶缸",
+   "extra": "打奶",
+   "subsection": "1.3 杯具与耗材",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0044"
+  },
+  {
+   "ita": "Caraffa",
+   "chn": "水壶 / 奶壶",
+   "extra": "servire",
+   "subsection": "1.3 杯具与耗材",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0045"
+  },
+  {
+   "ita": "Vassoio",
+   "chn": "托盘",
+   "extra": "上桌",
+   "subsection": "1.3 杯具与耗材",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0046"
+  },
+  {
+   "ita": "POS",
+   "chn": "刷卡机",
+   "extra": "pagare con carta",
+   "subsection": "1.3 杯具与耗材",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0047"
+  },
+  {
+   "ita": "Tessera fedeltà",
+   "chn": "积分卡",
+   "extra": "10 杯送1",
+   "subsection": "1.3 杯具与耗材",
+   "section": "第1部分 · 🏪 人物·场所·工具",
+   "id": "audio_0048"
+  },
+  {
+   "ita": "Caffè",
+   "chn": "意式浓缩（默认）",
+   "extra": "绝不说“un espresso”",
+   "subsection": "2.1 咖啡种类大全",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0049"
+  },
+  {
+   "ita": "Caffè ristretto",
+   "chn": "超浓缩",
+   "extra": "更短更浓",
+   "subsection": "2.1 咖啡种类大全",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0050"
+  },
+  {
+   "ita": "Caffè lungo",
+   "chn": "加长浓缩",
+   "extra": "多水稍淡",
+   "subsection": "2.1 咖啡种类大全",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0051"
+  },
+  {
+   "ita": "Caffè doppio",
+   "chn": "双份浓缩",
+   "extra": "two shots",
+   "subsection": "2.1 咖啡种类大全",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0052"
+  },
+  {
+   "ita": "Caffè macchiato caldo",
+   "chn": "热脏咖啡",
+   "extra": "加奶泡",
+   "subsection": "2.1 咖啡种类大全",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0053"
+  },
+  {
+   "ita": "Caffè macchiato freddo",
+   "chn": "冷脏咖啡",
+   "extra": "加冷奶",
+   "subsection": "2.1 咖啡种类大全",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0054"
+  },
+  {
+   "ita": "Cappuccino",
+   "chn": "卡布奇诺",
+   "extra": "仅早晨",
+   "subsection": "2.1 咖啡种类大全",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0055"
+  },
+  {
+   "ita": "Caffè latte",
+   "chn": "拿铁",
+   "extra": "大杯奶",
+   "subsection": "2.1 咖啡种类大全",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0056"
+  },
+  {
+   "ita": "Latte macchiato",
+   "chn": "玛奇朵牛奶",
+   "extra": "牛奶为主",
+   "subsection": "2.1 咖啡种类大全",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0057"
+  },
+  {
+   "ita": "Caffè americano",
+   "chn": "美式",
+   "extra": "加热水",
+   "subsection": "2.1 咖啡种类大全",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0058"
+  },
+  {
+   "ita": "Caffè corretto",
+   "chn": "加酒咖啡",
+   "extra": "grappa/sambuca",
+   "subsection": "2.1 咖啡种类大全",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0059"
+  },
+  {
+   "ita": "Marocchino",
+   "chn": "摩洛哥咖啡",
+   "extra": "可可+奶泡",
+   "subsection": "2.1 咖啡种类大全",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0060"
+  },
+  {
+   "ita": "Caffè d’orzo",
+   "chn": "大麦咖啡",
+   "extra": "无咖啡因",
+   "subsection": "2.1 咖啡种类大全",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0061"
+  },
+  {
+   "ita": "Caffè ginseng",
+   "chn": "人参咖啡",
+   "extra": "微甜",
+   "subsection": "2.1 咖啡种类大全",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0062"
+  },
+  {
+   "ita": "Caffè shakerato",
+   "chn": "雪克冰咖啡",
+   "extra": "摇匀冰",
+   "subsection": "2.1 咖啡种类大全",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0063"
+  },
+  {
+   "ita": "Caffè freddo",
+   "chn": "冰咖啡",
+   "extra": "甜冷",
+   "subsection": "2.1 咖啡种类大全",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0064"
+  },
+  {
+   "ita": "Decaffeinato / deca",
+   "chn": "低因",
+   "extra": "“un deca”",
+   "subsection": "2.1 咖啡种类大全",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0065"
+  },
+  {
+   "ita": "Crema",
+   "chn": "咖啡油脂",
+   "extra": "新鲜标志",
+   "subsection": "2.1 咖啡种类大全",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0066"
+  },
+  {
+   "ita": "Schiuma",
+   "chn": "奶泡",
+   "extra": "cappuccino 顶",
+   "subsection": "2.1 咖啡种类大全",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0067"
+  },
+  {
+   "ita": "Latte intero",
+   "chn": "全脂奶",
+   "extra": "默认",
+   "subsection": "2.2 奶与调味",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0068"
+  },
+  {
+   "ita": "Latte scremato",
+   "chn": "脱脂奶",
+   "extra": "leggero",
+   "subsection": "2.2 奶与调味",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0069"
+  },
+  {
+   "ita": "Latte senza lattosio",
+   "chn": "无乳糖奶",
+   "extra": "intolleranza",
+   "subsection": "2.2 奶与调味",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0070"
+  },
+  {
+   "ita": "Latte di soia",
+   "chn": "豆奶",
+   "extra": "vegetale",
+   "subsection": "2.2 奶与调味",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0071"
+  },
+  {
+   "ita": "Latte di avena",
+   "chn": "燕麦奶",
+   "extra": "trend",
+   "subsection": "2.2 奶与调味",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0072"
+  },
+  {
+   "ita": "Schiuma di latte",
+   "chn": "奶沫",
+   "extra": "microschiuma",
+   "subsection": "2.2 奶与调味",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0073"
+  },
+  {
+   "ita": "Panna",
+   "chn": "鲜奶油",
+   "extra": "topping",
+   "subsection": "2.2 奶与调味",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0074"
+  },
+  {
+   "ita": "Cacao",
+   "chn": "可可粉",
+   "extra": "marocchino",
+   "subsection": "2.2 奶与调味",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0075"
+  },
+  {
+   "ita": "Cannella",
+   "chn": "肉桂",
+   "extra": "spice",
+   "subsection": "2.2 奶与调味",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0076"
+  },
+  {
+   "ita": "Zucchero",
+   "chn": "糖",
+   "extra": "默认提供",
+   "subsection": "2.2 奶与调味",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0077"
+  },
+  {
+   "ita": "Zucchero di canna",
+   "chn": "红糖",
+   "extra": "più dolce",
+   "subsection": "2.2 奶与调味",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0078"
+  },
+  {
+   "ita": "Miele",
+   "chn": "蜂蜜",
+   "extra": "natural",
+   "subsection": "2.2 奶与调味",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0079"
+  },
+  {
+   "ita": "Caramello",
+   "chn": "焦糖",
+   "extra": "syrup",
+   "subsection": "2.2 奶与调味",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0080"
+  },
+  {
+   "ita": "Vaniglia",
+   "chn": "香草",
+   "extra": "syrup",
+   "subsection": "2.2 奶与调味",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0081"
+  },
+  {
+   "ita": "Cioccolato",
+   "chn": "巧克力",
+   "extra": "caldo/freddo",
+   "subsection": "2.2 奶与调味",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0082"
+  },
+  {
+   "ita": "Stevia",
+   "chn": "甜菊",
+   "extra": "zero cal",
+   "subsection": "2.2 奶与调味",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0083"
+  },
+  {
+   "ita": "Cornetto vuoto",
+   "chn": "空牛角包",
+   "extra": "无馅",
+   "subsection": "2.3 糕点食物",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0084"
+  },
+  {
+   "ita": "Cornetto alla marmellata",
+   "chn": "果酱牛角",
+   "extra": "jam",
+   "subsection": "2.3 糕点食物",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0085"
+  },
+  {
+   "ita": "Cornetto alla crema",
+   "chn": "奶油牛角",
+   "extra": "custard",
+   "subsection": "2.3 糕点食物",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0086"
+  },
+  {
+   "ita": "Cornetto al cioccolato",
+   "chn": "巧克力牛角",
+   "extra": "choco",
+   "subsection": "2.3 糕点食物",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0087"
+  },
+  {
+   "ita": "Brioche",
+   "chn": "布里欧修",
+   "extra": "南方叫 brioscia",
+   "subsection": "2.3 糕点食物",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0088"
+  },
+  {
+   "ita": "Fetta di torta",
+   "chn": "蛋糕片",
+   "extra": "dessert",
+   "subsection": "2.3 糕点食物",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0089"
+  },
+  {
+   "ita": "Tramezzino",
+   "chn": "三角三明治",
+   "extra": "去皮",
+   "subsection": "2.3 糕点食物",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0090"
+  },
+  {
+   "ita": "Panino",
+   "chn": "帕尼尼",
+   "extra": "意式三明",
+   "subsection": "2.3 糕点食物",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0091"
+  },
+  {
+   "ita": "Piadina",
+   "chn": "意式薄饼卷",
+   "extra": "romagna",
+   "subsection": "2.3 糕点食物",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0092"
+  },
+  {
+   "ita": "Pizzetta",
+   "chn": "小披萨",
+   "extra": "零食",
+   "subsection": "2.3 糕点食物",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0093"
+  },
+  {
+   "ita": "Focaccia",
+   "chn": "佛卡夏",
+   "extra": "咸香",
+   "subsection": "2.3 糕点食物",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0094"
+  },
+  {
+   "ita": "Grissini",
+   "chn": "脆面包棒",
+   "extra": "stuzzichino",
+   "subsection": "2.3 糕点食物",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0095"
+  },
+  {
+   "ita": "Sfogliatella",
+   "chn": "那不勒斯千层",
+   "extra": "napoli",
+   "subsection": "2.3 糕点食物",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0096"
+  },
+  {
+   "ita": "Veneziana",
+   "chn": "米兰甜面包",
+   "extra": "milano",
+   "subsection": "2.3 糕点食物",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0097"
+  },
+  {
+   "ita": "Krapfen",
+   "chn": "柏林甜甜圈",
+   "extra": "fritto",
+   "subsection": "2.3 糕点食物",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0098"
+  },
+  {
+   "ita": "Bonet / dolcetto",
+   "chn": "小甜点",
+   "extra": "varie",
+   "subsection": "2.3 糕点食物",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0099"
+  },
+  {
+   "ita": "Aperol",
+   "chn": "阿佩罗",
+   "extra": "橙红开胃",
+   "subsection": "2.4 酒水与开胃酒",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0100"
+  },
+  {
+   "ita": "Campari",
+   "chn": "金巴利",
+   "extra": "苦开胃",
+   "subsection": "2.4 酒水与开胃酒",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0101"
+  },
+  {
+   "ita": "Spritz",
+   "chn": "斯普利茨",
+   "extra": "开胃酒王",
+   "subsection": "2.4 酒水与开胃酒",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0102"
+  },
+  {
+   "ita": "Negroni",
+   "chn": "尼格罗尼",
+   "extra": "gin+vermouth+campari",
+   "subsection": "2.4 酒水与开胃酒",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0103"
+  },
+  {
+   "ita": "Prosecco",
+   "chn": "普罗塞克",
+   "extra": "起泡白",
+   "subsection": "2.4 酒水与开胃酒",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0104"
+  },
+  {
+   "ita": "Vino rosso",
+   "chn": "红葡萄酒",
+   "extra": "常饮",
+   "subsection": "2.4 酒水与开胃酒",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0105"
+  },
+  {
+   "ita": "Vino bianco",
+   "chn": "白葡萄酒",
+   "extra": "常饮",
+   "subsection": "2.4 酒水与开胃酒",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0106"
+  },
+  {
+   "ita": "Vino rosato",
+   "chn": "桃红",
+   "extra": "estate",
+   "subsection": "2.4 酒水与开胃酒",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0107"
+  },
+  {
+   "ita": "Vino della casa",
+   "chn": "店酒",
+   "extra": "性价比",
+   "subsection": "2.4 酒水与开胃酒",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0108"
+  },
+  {
+   "ita": "Birra alla spina",
+   "chn": "生啤",
+   "extra": "draught",
+   "subsection": "2.4 酒水与开胃酒",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0109"
+  },
+  {
+   "ita": "Birra in bottiglia",
+   "chn": "瓶啤",
+   "extra": "bottiglia",
+   "subsection": "2.4 酒水与开胃酒",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0110"
+  },
+  {
+   "ita": "Amaro",
+   "chn": "苦味利口酒",
+   "extra": "餐后",
+   "subsection": "2.4 酒水与开胃酒",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0111"
+  },
+  {
+   "ita": "Grappa",
+   "chn": "格拉帕",
+   "extra": "果渣白",
+   "subsection": "2.4 酒水与开胃酒",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0112"
+  },
+  {
+   "ita": "Sambuca",
+   "chn": "森布卡",
+   "extra": "茴香",
+   "subsection": "2.4 酒水与开胃酒",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0113"
+  },
+  {
+   "ita": "Limoncello",
+   "chn": "柠檬酒",
+   "extra": "南方",
+   "subsection": "2.4 酒水与开胃酒",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0114"
+  },
+  {
+   "ita": "Vermouth",
+   "chn": "味美思",
+   "extra": "aperitivo",
+   "subsection": "2.4 酒水与开胃酒",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0115"
+  },
+  {
+   "ita": "Gin",
+   "chn": "金酒",
+   "extra": "base",
+   "subsection": "2.4 酒水与开胃酒",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0116"
+  },
+  {
+   "ita": "Rum",
+   "chn": "朗姆",
+   "extra": "base",
+   "subsection": "2.4 酒水与开胃酒",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0117"
+  },
+  {
+   "ita": "Acqua naturale",
+   "chn": "静水",
+   "extra": "still",
+   "subsection": "2.4 酒水与开胃酒",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0118"
+  },
+  {
+   "ita": "Acqua frizzante",
+   "chn": "气泡水",
+   "extra": "sparkling",
+   "subsection": "2.4 酒水与开胃酒",
+   "section": "第2部分 · ☕ 核心词汇速查",
+   "id": "audio_0119"
+  },
+  {
+   "ita": "Macinatura",
+   "chn": "研磨度",
+   "extra": "fine/medium",
+   "subsection": "3.1 萃取术语",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0120"
+  },
+  {
+   "ita": "Dose",
+   "chn": "粉量",
+   "extra": "7-9 g",
+   "subsection": "3.1 萃取术语",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0121"
+  },
+  {
+   "ita": "Estrazione",
+   "chn": "萃取",
+   "extra": "25-30 sec",
+   "subsection": "3.1 萃取术语",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0122"
+  },
+  {
+   "ita": "Pressione 9 bar",
+   "chn": "9 巴压力",
+   "extra": "标准",
+   "subsection": "3.1 萃取术语",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0123"
+  },
+  {
+   "ita": "Crema",
+   "chn": "油脂层",
+   "extra": "新鲜标志",
+   "subsection": "3.1 萃取术语",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0124"
+  },
+  {
+   "ita": "Corpo",
+   "chn": "醇厚度",
+   "extra": "口感",
+   "subsection": "3.1 萃取术语",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0125"
+  },
+  {
+   "ita": "Retrolfatto",
+   "chn": "回甘",
+   "extra": "香气尾",
+   "subsection": "3.1 萃取术语",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0126"
+  },
+  {
+   "ita": "Bilanciato",
+   "chn": "平衡",
+   "extra": "理想",
+   "subsection": "3.1 萃取术语",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0127"
+  },
+  {
+   "ita": "Sbilanciato",
+   "chn": "失衡",
+   "extra": "过萃/欠萃",
+   "subsection": "3.1 萃取术语",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0128"
+  },
+  {
+   "ita": "Troppo lungo",
+   "chn": "过萃",
+   "extra": "苦",
+   "subsection": "3.1 萃取术语",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0129"
+  },
+  {
+   "ita": "Troppo corto",
+   "chn": "欠萃",
+   "extra": "酸",
+   "subsection": "3.1 萃取术语",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0130"
+  },
+  {
+   "ita": "Macinare al momento",
+   "chn": "现磨",
+   "extra": "新鲜",
+   "subsection": "3.1 萃取术语",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0131"
+  },
+  {
+   "ita": "Tamper",
+   "chn": "压粉",
+   "extra": "水平压",
+   "subsection": "3.1 萃取术语",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0132"
+  },
+  {
+   "ita": "Colpo",
+   "chn": "出液",
+   "extra": "il colpo",
+   "subsection": "3.1 萃取术语",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0133"
+  },
+  {
+   "ita": "Montare il latte",
+   "chn": "打奶泡",
+   "extra": "vapore",
+   "subsection": "3.2 打奶泡",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0134"
+  },
+  {
+   "ita": "Microschiuma",
+   "chn": "微奶泡",
+   "extra": "丝滑",
+   "subsection": "3.2 打奶泡",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0135"
+  },
+  {
+   "ita": "Latte caldo",
+   "chn": "热奶",
+   "extra": "cappuccino",
+   "subsection": "3.2 打奶泡",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0136"
+  },
+  {
+   "ita": "Caraffa",
+   "chn": "奶缸",
+   "extra": "versare",
+   "subsection": "3.2 打奶泡",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0137"
+  },
+  {
+   "ita": "Vapore",
+   "chn": "蒸汽棒",
+   "extra": "发力",
+   "subsection": "3.2 打奶泡",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0138"
+  },
+  {
+   "ita": "Inserire l’aria",
+   "chn": "进气",
+   "extra": "起始嘶嘶",
+   "subsection": "3.2 打奶泡",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0139"
+  },
+  {
+   "ita": "Vorticare",
+   "chn": "旋流",
+   "extra": "混匀",
+   "subsection": "3.2 打奶泡",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0140"
+  },
+  {
+   "ita": "Temperature 65°",
+   "chn": "65度",
+   "extra": "理想奶温",
+   "subsection": "3.2 打奶泡",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0141"
+  },
+  {
+   "ita": "Schiuma densa",
+   "chn": "厚泡",
+   "extra": "cappuccino",
+   "subsection": "3.2 打奶泡",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0142"
+  },
+  {
+   "ita": "Latte liscio",
+   "chn": "平奶",
+   "extra": "latte macchiato",
+   "subsection": "3.2 打奶泡",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0143"
+  },
+  {
+   "ita": "Ricetta cappuccino",
+   "chn": "卡布配方",
+   "extra": "1/3 咖啡1/3奶1/3泡",
+   "subsection": "3.3 经典配方",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0144"
+  },
+  {
+   "ita": "Un terzo caffè",
+   "chn": "三分之一咖啡",
+   "extra": "base",
+   "subsection": "3.3 经典配方",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0145"
+  },
+  {
+   "ita": "Un terzo latte",
+   "chn": "三分之一奶",
+   "extra": "middle",
+   "subsection": "3.3 经典配方",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0146"
+  },
+  {
+   "ita": "Un terzo schiuma",
+   "chn": "三分之一泡",
+   "extra": "top",
+   "subsection": "3.3 经典配方",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0147"
+  },
+  {
+   "ita": "Spritz = Aperol + Prosecco",
+   "chn": "斯普利茨配方",
+   "extra": "+ gassosa + oliva",
+   "subsection": "3.3 经典配方",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0148"
+  },
+  {
+   "ita": "Negroni = gin + vermouth",
+   "chn": "尼格罗尼",
+   "extra": "+ campari",
+   "subsection": "3.3 经典配方",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0149"
+  },
+  {
+   "ita": "Caffè corretto grappa",
+   "chn": "加格拉帕",
+   "extra": "北方传统",
+   "subsection": "3.3 经典配方",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0150"
+  },
+  {
+   "ita": "Marocchino = cacao+latte",
+   "chn": "摩洛哥",
+   "extra": "+ schiuma",
+   "subsection": "3.3 经典配方",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0151"
+  },
+  {
+   "ita": "Shakerato = espresso+ghiaccio",
+   "chn": "雪克",
+   "extra": "摇匀",
+   "subsection": "3.3 经典配方",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0152"
+  },
+  {
+   "ita": "Americano = espresso+acqua",
+   "chn": "美式",
+   "extra": "加热水",
+   "subsection": "3.3 经典配方",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0153"
+  },
+  {
+   "ita": "Un caffè, per favore",
+   "chn": "一杯咖啡，谢谢",
+   "extra": "最常用",
+   "subsection": "3.4 吧台沟通例句",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0154"
+  },
+  {
+   "ita": "Al banco o al tavolo?",
+   "chn": "吧台还是坐桌？",
+   "extra": "必问",
+   "subsection": "3.4 吧台沟通例句",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0155"
+  },
+  {
+   "ita": "Lo vuole corretto?",
+   "chn": "要加酒吗？",
+   "extra": "询问",
+   "subsection": "3.4 吧台沟通例句",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0156"
+  },
+  {
+   "ita": "Caldo o freddo?",
+   "chn": "热的还是冷的？",
+   "extra": "确认",
+   "subsection": "3.4 吧台沟通例句",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0157"
+  },
+  {
+   "ita": "Con zucchero?",
+   "chn": "加糖吗？",
+   "extra": "确认",
+   "subsection": "3.4 吧台沟通例句",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0158"
+  },
+  {
+   "ita": "Subito, grazie",
+   "chn": "马上来，谢谢",
+   "extra": "回应",
+   "subsection": "3.4 吧台沟通例句",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0159"
+  },
+  {
+   "ita": "Altro?",
+   "chn": "还要别的吗？",
+   "extra": "追加",
+   "subsection": "3.4 吧台沟通例句",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0160"
+  },
+  {
+   "ita": "È tutto?",
+   "chn": "就这些？",
+   "extra": "收单",
+   "subsection": "3.4 吧台沟通例句",
+   "section": "第3部分 · ☕ 咖啡制作技术",
+   "id": "audio_0161"
+  },
+  {
+   "ita": "Aperitivo",
+   "chn": "开胃酒时光",
+   "extra": "傍晚文化",
+   "subsection": "4.1 开胃酒术语",
+   "section": "第4部分 · 🍸 酒水与 Aperitivo",
+   "id": "audio_0162"
+  },
+  {
+   "ita": "Apericena",
+   "chn": "开胃代餐",
+   "extra": "米兰风",
+   "subsection": "4.1 开胃酒术语",
+   "section": "第4部分 · 🍸 酒水与 Aperitivo",
+   "id": "audio_0163"
+  },
+  {
+   "ita": "Bitter",
+   "chn": "苦酒",
+   "extra": "campari 类",
+   "subsection": "4.1 开胃酒术语",
+   "section": "第4部分 · 🍸 酒水与 Aperitivo",
+   "id": "audio_0164"
+  },
+  {
+   "ita": "Analcolico",
+   "chn": "无酒精",
+   "extra": "bimbi",
+   "subsection": "4.1 开胃酒术语",
+   "section": "第4部分 · 🍸 酒水与 Aperitivo",
+   "id": "audio_0165"
+  },
+  {
+   "ita": "Long drink",
+   "chn": "长饮",
+   "extra": "加汽水",
+   "subsection": "4.1 开胃酒术语",
+   "section": "第4部分 · 🍸 酒水与 Aperitivo",
+   "id": "audio_0166"
+  },
+  {
+   "ita": "Short drink",
+   "chn": "短饮",
+   "extra": "纯烈",
+   "subsection": "4.1 开胃酒术语",
+   "section": "第4部分 · 🍸 酒水与 Aperitivo",
+   "id": "audio_0167"
+  },
+  {
+   "ita": "Ghiacciato",
+   "chn": "加冰",
+   "extra": "on ice",
+   "subsection": "4.1 开胃酒术语",
+   "section": "第4部分 · 🍸 酒水与 Aperitivo",
+   "id": "audio_0168"
+  },
+  {
+   "ita": "Liscio",
+   "chn": "纯饮",
+   "extra": "neat",
+   "subsection": "4.1 开胃酒术语",
+   "section": "第4部分 · 🍸 酒水与 Aperitivo",
+   "id": "audio_0169"
+  },
+  {
+   "ita": "Con soda",
+   "chn": "加苏打",
+   "extra": "light",
+   "subsection": "4.1 开胃酒术语",
+   "section": "第4部分 · 🍸 酒水与 Aperitivo",
+   "id": "audio_0170"
+  },
+  {
+   "ita": "Taglio",
+   "chn": "一杯量",
+   "extra": "un taglio",
+   "subsection": "4.1 开胃酒术语",
+   "section": "第4部分 · 🍸 酒水与 Aperitivo",
+   "id": "audio_0171"
+  },
+  {
+   "ita": "Spritz",
+   "chn": "斯普利茨",
+   "extra": "Aperol+Prosecco+苏打",
+   "subsection": "4.2 经典鸡尾酒",
+   "section": "第4部分 · 🍸 酒水与 Aperitivo",
+   "id": "audio_0172"
+  },
+  {
+   "ita": "Negroni",
+   "chn": "尼格罗尼",
+   "extra": "gin+vermouth+campari",
+   "subsection": "4.2 经典鸡尾酒",
+   "section": "第4部分 · 🍸 酒水与 Aperitivo",
+   "id": "audio_0173"
+  },
+  {
+   "ita": "Negroni sbagliato",
+   "chn": "错尼格罗尼",
+   "extra": "campari+prosecco",
+   "subsection": "4.2 经典鸡尾酒",
+   "section": "第4部分 · 🍸 酒水与 Aperitivo",
+   "id": "audio_0174"
+  },
+  {
+   "ita": "Americano",
+   "chn": "美式鸡尾",
+   "extra": "campari+vermouth",
+   "subsection": "4.2 经典鸡尾酒",
+   "section": "第4部分 · 🍸 酒水与 Aperitivo",
+   "id": "audio_0175"
+  },
+  {
+   "ita": "Campari soda",
+   "chn": "金巴利苏打",
+   "extra": "simple",
+   "subsection": "4.2 经典鸡尾酒",
+   "section": "第4部分 · 🍸 酒水与 Aperitivo",
+   "id": "audio_0176"
+  },
+  {
+   "ita": "Rossini",
+   "chn": "罗西尼",
+   "extra": "prosecco+fragola",
+   "subsection": "4.2 经典鸡尾酒",
+   "section": "第4部分 · 🍸 酒水与 Aperitivo",
+   "id": "audio_0177"
+  },
+  {
+   "ita": "Bellini",
+   "chn": "贝里尼",
+   "extra": "prosecco+pesca",
+   "subsection": "4.2 经典鸡尾酒",
+   "section": "第4部分 · 🍸 酒水与 Aperitivo",
+   "id": "audio_0178"
+  },
+  {
+   "ita": "Hugo",
+   "chn": "雨果",
+   "extra": "prosecco+acetosa",
+   "subsection": "4.2 经典鸡尾酒",
+   "section": "第4部分 · 🍸 酒水与 Aperitivo",
+   "id": "audio_0179"
+  },
+  {
+   "ita": "Gin tonic",
+   "chn": "金汤力",
+   "extra": "gin+tonic",
+   "subsection": "4.2 经典鸡尾酒",
+   "section": "第4部分 · 🍸 酒水与 Aperitivo",
+   "id": "audio_0180"
+  },
+  {
+   "ita": "Mojito",
+   "chn": "莫吉托",
+   "extra": "rum+menta",
+   "subsection": "4.2 经典鸡尾酒",
+   "section": "第4部分 · 🍸 酒水与 Aperitivo",
+   "id": "audio_0181"
+  },
+  {
+   "ita": "Sangria",
+   "chn": "桑格利亚",
+   "extra": "红酒水果",
+   "subsection": "4.2 经典鸡尾酒",
+   "section": "第4部分 · 🍸 酒水与 Aperitivo",
+   "id": "audio_0182"
+  },
+  {
+   "ita": "Caipirinha",
+   "chn": "凯匹林纳",
+   "extra": "cachaça",
+   "subsection": "4.2 经典鸡尾酒",
+   "section": "第4部分 · 🍸 酒水与 Aperitivo",
+   "id": "audio_0183"
+  },
+  {
+   "ita": "Martini",
+   "chn": "马天尼",
+   "extra": "gin+vermouth",
+   "subsection": "4.2 经典鸡尾酒",
+   "section": "第4部分 · 🍸 酒水与 Aperitivo",
+   "id": "audio_0184"
+  },
+  {
+   "ita": "Spritz al Campari",
+   "chn": "金巴利斯普利茨",
+   "extra": "variante",
+   "subsection": "4.2 经典鸡尾酒",
+   "section": "第4部分 · 🍸 酒水与 Aperitivo",
+   "id": "audio_0185"
+  },
+  {
+   "ita": "Uno spritz, per favore",
+   "chn": "一杯斯普利茨",
+   "extra": "经典",
+   "subsection": "4.3 酒水沟通例句",
+   "section": "第4部分 · 🍸 酒水与 Aperitivo",
+   "id": "audio_0186"
+  },
+  {
+   "ita": "Che aperitivo mi consiglia?",
+   "chn": "推荐什么开胃酒？",
+   "extra": "问",
+   "subsection": "4.3 酒水沟通例句",
+   "section": "第4部分 · 🍸 酒水与 Aperitivo",
+   "id": "audio_0187"
+  },
+  {
+   "ita": "Un bicchiere di vino della casa",
+   "chn": "一杯店酒",
+   "extra": "常见",
+   "subsection": "4.3 酒水沟通例句",
+   "section": "第4部分 · 🍸 酒水与 Aperitivo",
+   "id": "audio_0188"
+  },
+  {
+   "ita": "Lo preferisci con ghiaccio?",
+   "chn": "要加冰吗？",
+   "extra": "问",
+   "subsection": "4.3 酒水沟通例句",
+   "section": "第4部分 · 🍸 酒水与 Aperitivo",
+   "id": "audio_0189"
+  },
+  {
+   "ita": "Una birra alla spina",
+   "chn": "一杯生啤",
+   "extra": "bar",
+   "subsection": "4.3 酒水沟通例句",
+   "section": "第4部分 · 🍸 酒水与 Aperitivo",
+   "id": "audio_0190"
+  },
+  {
+   "ita": "Senza alcool, grazie",
+   "chn": "不要酒精，谢谢",
+   "extra": "指定",
+   "subsection": "4.3 酒水沟通例句",
+   "section": "第4部分 · 🍸 酒水与 Aperitivo",
+   "id": "audio_0191"
+  },
+  {
+   "ita": "Un calice di prosecco",
+   "chn": "一杯普罗塞克",
+   "extra": "flûte",
+   "subsection": "4.3 酒水沟通例句",
+   "section": "第4部分 · 🍸 酒水与 Aperitivo",
+   "id": "audio_0192"
+  },
+  {
+   "ita": "Tramezzino al tonno",
+   "chn": "金枪鱼三明",
+   "extra": "classic",
+   "subsection": "5.1 三明治与卷饼",
+   "section": "第5部分 · 🥪 食物与轻食",
+   "id": "audio_0193"
+  },
+  {
+   "ita": "Tramezzino prosciutto",
+   "chn": "火腿三明",
+   "extra": "simple",
+   "subsection": "5.1 三明治与卷饼",
+   "section": "第5部分 · 🥪 食物与轻食",
+   "id": "audio_0194"
+  },
+  {
+   "ita": "Panino con mozzarella",
+   "chn": "马苏卷",
+   "extra": "vegetariano",
+   "subsection": "5.1 三明治与卷饼",
+   "section": "第5部分 · 🥪 食物与轻食",
+   "id": "audio_0195"
+  },
+  {
+   "ita": "Piadina con crudo",
+   "chn": "火腿薄饼",
+   "extra": "romagna",
+   "subsection": "5.1 三明治与卷饼",
+   "section": "第5部分 · 🥪 食物与轻食",
+   "id": "audio_0196"
+  },
+  {
+   "ita": "Panino vegetariano",
+   "chn": "素帕尼尼",
+   "extra": "veg",
+   "subsection": "5.1 三明治与卷饼",
+   "section": "第5部分 · 🥪 食物与轻食",
+   "id": "audio_0197"
+  },
+  {
+   "ita": "Toast",
+   "chn": "烤三明",
+   "extra": "grigliato",
+   "subsection": "5.1 三明治与卷饼",
+   "section": "第5部分 · 🥪 食物与轻食",
+   "id": "audio_0198"
+  },
+  {
+   "ita": "Bruschetta",
+   "chn": "蒜香面包",
+   "extra": "番茄顶",
+   "subsection": "5.1 三明治与卷饼",
+   "section": "第5部分 · 🥪 食物与轻食",
+   "id": "audio_0199"
+  },
+  {
+   "ita": "Panino con bresaola",
+   "chn": "风干牛肉卷",
+   "extra": "nord",
+   "subsection": "5.1 三明治与卷饼",
+   "section": "第5部分 · 🥪 食物与轻食",
+   "id": "audio_0200"
+  },
+  {
+   "ita": "Tagliere misto",
+   "chn": "混合拼盘",
+   "extra": "salumi+formaggi",
+   "subsection": "5.2 小食与拼盘",
+   "section": "第5部分 · 🥪 食物与轻食",
+   "id": "audio_0201"
+  },
+  {
+   "ita": "Olive",
+   "chn": "橄榄",
+   "extra": "stuzzichino",
+   "subsection": "5.2 小食与拼盘",
+   "section": "第5部分 · 🥪 食物与轻食",
+   "id": "audio_0202"
+  },
+  {
+   "ita": "Patatine",
+   "chn": "薯片",
+   "extra": "crisps",
+   "subsection": "5.2 小食与拼盘",
+   "section": "第5部分 · 🥪 食物与轻食",
+   "id": "audio_0203"
+  },
+  {
+   "ita": "Arachidi",
+   "chn": "花生",
+   "extra": "bar",
+   "subsection": "5.2 小食与拼盘",
+   "section": "第5部分 · 🥪 食物与轻食",
+   "id": "audio_0204"
+  },
+  {
+   "ita": "Stuzzichini",
+   "chn": "开胃小食",
+   "extra": "aperitivo",
+   "subsection": "5.2 小食与拼盘",
+   "section": "第5部分 · 🥪 食物与轻食",
+   "id": "audio_0205"
+  },
+  {
+   "ita": "Pizzetta margherita",
+   "chn": "玛格小披萨",
+   "extra": "classic",
+   "subsection": "5.2 小食与拼盘",
+   "section": "第5部分 · 🥪 食物与轻食",
+   "id": "audio_0206"
+  },
+  {
+   "ita": "Focaccia al rosmarino",
+   "chn": "迷迭香佛卡夏",
+   "extra": "herb",
+   "subsection": "5.2 小食与拼盘",
+   "section": "第5部分 · 🥪 食物与轻食",
+   "id": "audio_0207"
+  },
+  {
+   "ita": "Formaggio",
+   "chn": "奶酪",
+   "extra": "formaggi",
+   "subsection": "5.2 小食与拼盘",
+   "section": "第5部分 · 🥪 食物与轻食",
+   "id": "audio_0208"
+  },
+  {
+   "ita": "Salumi",
+   "chn": "冷切肉",
+   "extra": "salame",
+   "subsection": "5.2 小食与拼盘",
+   "section": "第5部分 · 🥪 食物与轻食",
+   "id": "audio_0209"
+  },
+  {
+   "ita": "Bruschette varie",
+   "chn": "各式脆包",
+   "extra": "vari",
+   "subsection": "5.2 小食与拼盘",
+   "section": "第5部分 · 🥪 食物与轻食",
+   "id": "audio_0210"
+  },
+  {
+   "ita": "Buongiorno, un caffè per favore",
+   "chn": "您好，一杯咖啡",
+   "extra": "☕",
+   "subsection": "场景一：📋 吧台点单",
+   "section": "第6部分 · 💬 场景精华对话",
+   "id": "audio_0211"
+  },
+  {
+   "ita": "Al banco o al tavolo?",
+   "chn": "吧台还是坐桌？",
+   "extra": "🧑‍🍳",
+   "subsection": "场景一：📋 吧台点单",
+   "section": "第6部分 · 💬 场景精华对话",
+   "id": "audio_0212"
+  },
+  {
+   "ita": "Al banco, grazie",
+   "chn": "吧台，谢谢",
+   "extra": "☕",
+   "subsection": "场景一：📋 吧台点单",
+   "section": "第6部分 · 💬 场景精华对话",
+   "id": "audio_0213"
+  },
+  {
+   "ita": "Macchiato caldo, per favore",
+   "chn": "热脏咖啡",
+   "extra": "☕",
+   "subsection": "场景一：📋 吧台点单",
+   "section": "第6部分 · 💬 场景精华对话",
+   "id": "audio_0214"
+  },
+  {
+   "ita": "Subito",
+   "chn": "马上",
+   "extra": "🧑‍🍳",
+   "subsection": "场景一：📋 吧台点单",
+   "section": "第6部分 · 💬 场景精华对话",
+   "id": "audio_0215"
+  },
+  {
+   "ita": "Quanto è?",
+   "chn": "多少钱？",
+   "extra": "☕",
+   "subsection": "场景一：📋 吧台点单",
+   "section": "第6部分 · 💬 场景精华对话",
+   "id": "audio_0216"
+  },
+  {
+   "ita": "Un euro e venti",
+   "chn": "一块二",
+   "extra": "🧑‍🍳",
+   "subsection": "场景一：📋 吧台点单",
+   "section": "第6部分 · 💬 场景精华对话",
+   "id": "audio_0217"
+  },
+  {
+   "ita": "Posso pagare con carta?",
+   "chn": "能刷卡吗？",
+   "extra": "☕",
+   "subsection": "场景一：📋 吧台点单",
+   "section": "第6部分 · 💬 场景精华对话",
+   "id": "audio_0218"
+  },
+  {
+   "ita": "Buonasera, un tavolo per due",
+   "chn": "晚上好，两人桌",
+   "extra": "🧑",
+   "subsection": "场景二：🪑 坐下服务",
+   "section": "第6部分 · 💬 场景精华对话",
+   "id": "audio_0219"
+  },
+  {
+   "ita": "Prego, da questa parte",
+   "chn": "这边请",
+   "extra": "🧑‍🍳",
+   "subsection": "场景二：🪑 坐下服务",
+   "section": "第6部分 · 💬 场景精华对话",
+   "id": "audio_0220"
+  },
+  {
+   "ita": "Due cappuccini e due cornetti",
+   "chn": "两个卡布两个牛角",
+   "extra": "🧑",
+   "subsection": "场景二：🪑 坐下服务",
+   "section": "第6部分 · 💬 场景精华对话",
+   "id": "audio_0221"
+  },
+  {
+   "ita": "Sedete pure all’aperto",
+   "chn": "可坐露天",
+   "extra": "🧑‍🍳",
+   "subsection": "场景二：🪑 坐下服务",
+   "section": "第6部分 · 💬 场景精华对话",
+   "id": "audio_0222"
+  },
+  {
+   "ita": "Porto subito",
+   "chn": "马上送",
+   "extra": "🧑‍🍳",
+   "subsection": "场景二：🪑 坐下服务",
+   "section": "第6部分 · 💬 场景精华对话",
+   "id": "audio_0223"
+  },
+  {
+   "ita": "Il conto, per favore",
+   "chn": "买单",
+   "extra": "🧑",
+   "subsection": "场景二：🪑 坐下服务",
+   "section": "第6部分 · 💬 场景精华对话",
+   "id": "audio_0224"
+  },
+  {
+   "ita": "Sono otto euro",
+   "chn": "八块",
+   "extra": "🧑‍🍳",
+   "subsection": "场景二：🪑 坐下服务",
+   "section": "第6部分 · 💬 场景精华对话",
+   "id": "audio_0225"
+  },
+  {
+   "ita": "Che aperitivo prendiamo?",
+   "chn": "喝什么开胃？",
+   "extra": "🧑",
+   "subsection": "场景三：🍹 开胃酒时光",
+   "section": "第6部分 · 💬 场景精华对话",
+   "id": "audio_0226"
+  },
+  {
+   "ita": "Uno spritz per me",
+   "chn": "我要斯普利茨",
+   "extra": "🧑",
+   "subsection": "场景三：🍹 开胃酒时光",
+   "section": "第6部分 · 💬 场景精华对话",
+   "id": "audio_0227"
+  },
+  {
+   "ita": "Un prosecco per lei",
+   "chn": "她要普罗塞克",
+   "extra": "🧑",
+   "subsection": "场景三：🍹 开胃酒时光",
+   "section": "第6部分 · 💬 场景精华对话",
+   "id": "audio_0228"
+  },
+  {
+   "ita": "Con olive o patatine?",
+   "chn": "配橄榄还是薯片？",
+   "extra": "🧑‍🍳",
+   "subsection": "场景三：🍹 开胃酒时光",
+   "section": "第6部分 · 💬 场景精华对话",
+   "id": "audio_0229"
+  },
+  {
+   "ita": "Olive, grazie",
+   "chn": "橄榄，谢谢",
+   "extra": "🧑",
+   "subsection": "场景三：🍹 开胃酒时光",
+   "section": "第6部分 · 💬 场景精华对话",
+   "id": "audio_0230"
+  },
+  {
+   "ita": "Brindiamo!",
+   "chn": "干杯！",
+   "extra": "🧑",
+   "subsection": "场景三：🍹 开胃酒时光",
+   "section": "第6部分 · 💬 场景精华对话",
+   "id": "audio_0231"
+  },
+  {
+   "ita": "Alla salute!",
+   "chn": "为健康！",
+   "extra": "🧑",
+   "subsection": "场景三：🍹 开胃酒时光",
+   "section": "第6部分 · 💬 场景精华对话",
+   "id": "audio_0232"
+  },
+  {
+   "ita": "Il conto, per favore",
+   "chn": "买单，谢谢",
+   "extra": "🧑",
+   "subsection": "场景四：💶 付款结账",
+   "section": "第6部分 · 💬 场景精华对话",
+   "id": "audio_0233"
+  },
+  {
+   "ita": "Sono quattordici euro",
+   "chn": "十四欧",
+   "extra": "🧑‍🍳",
+   "subsection": "场景四：💶 付款结账",
+   "section": "第6部分 · 💬 场景精华对话",
+   "id": "audio_0234"
+  },
+  {
+   "ita": "Faccio con carta",
+   "chn": "我刷卡",
+   "extra": "🧑",
+   "subsection": "场景四：💶 付款结账",
+   "section": "第6部分 · 💬 场景精华对话",
+   "id": "audio_0235"
+  },
+  {
+   "ita": "Può fare il POS?",
+   "chn": "能刷卡机吗？",
+   "extra": "🧑",
+   "subsection": "场景四：💶 付款结账",
+   "section": "第6部分 · 💬 场景精华对话",
+   "id": "audio_0236"
+  },
+  {
+   "ita": "Certo, mi dia la carta",
+   "chn": "可以，给卡",
+   "extra": "🧑‍🍳",
+   "subsection": "场景四：💶 付款结账",
+   "section": "第6部分 · 💬 场景精华对话",
+   "id": "audio_0237"
+  },
+  {
+   "ita": "Tenere il resto",
+   "chn": "零钱留着",
+   "extra": "🧑",
+   "subsection": "场景四：💶 付款结账",
+   "section": "第6部分 · 💬 场景精华对话",
+   "id": "audio_0238"
+  },
+  {
+   "ita": "Grazie, a domani!",
+   "chn": "谢谢，明天见！",
+   "extra": "🧑‍🍳",
+   "subsection": "场景四：💶 付款结账",
+   "section": "第6部分 · 💬 场景精华对话",
+   "id": "audio_0239"
+  },
+  {
+   "ita": "Buongiorno, un caffè",
+   "chn": "您好，一杯咖啡",
+   "extra": "🟢",
+   "subsection": "7.1 进门第一句",
+   "section": "第7部分 · 🔧 万能句型速查",
+   "id": "audio_0240"
+  },
+  {
+   "ita": "Buonasera, un tavolo per due",
+   "chn": "晚上好，两人桌",
+   "extra": "🟢",
+   "subsection": "7.1 进门第一句",
+   "section": "第7部分 · 🔧 万能句型速查",
+   "id": "audio_0241"
+  },
+  {
+   "ita": "Uno spritz, per favore",
+   "chn": "一杯斯普利茨",
+   "extra": "🟢",
+   "subsection": "7.1 进门第一句",
+   "section": "第7部分 · 🔧 万能句型速查",
+   "id": "audio_0242"
+  },
+  {
+   "ita": "Solo un espresso, grazie",
+   "chn": "只要浓缩，谢谢",
+   "extra": "🟢",
+   "subsection": "7.1 进门第一句",
+   "section": "第7部分 · 🔧 万能句型速查",
+   "id": "audio_0243"
+  },
+  {
+   "ita": "Posso sedermi?",
+   "chn": "可以坐吗？",
+   "extra": "🟢",
+   "subsection": "7.1 进门第一句",
+   "section": "第7部分 · 🔧 万能句型速查",
+   "id": "audio_0244"
+  },
+  {
+   "ita": "È libero questo tavolo?",
+   "chn": "这桌空吗？",
+   "extra": "🟢",
+   "subsection": "7.1 进门第一句",
+   "section": "第7部分 · 🔧 万能句型速查",
+   "id": "audio_0245"
+  },
+  {
+   "ita": "Vorrei ordinare",
+   "chn": "我想点单",
+   "extra": "🟢",
+   "subsection": "7.1 进门第一句",
+   "section": "第7部分 · 🔧 万能句型速查",
+   "id": "audio_0246"
+  },
+  {
+   "ita": "Un cappuccino, per favore",
+   "chn": "卡布奇诺",
+   "extra": "🔵",
+   "subsection": "7.2 点咖啡",
+   "section": "第7部分 · 🔧 万能句型速查",
+   "id": "audio_0247"
+  },
+  {
+   "ita": "Un macchiato caldo",
+   "chn": "热脏咖啡",
+   "extra": "🔵",
+   "subsection": "7.2 点咖啡",
+   "section": "第7部分 · 🔧 万能句型速查",
+   "id": "audio_0248"
+  },
+  {
+   "ita": "Un caffè lungo, grazie",
+   "chn": "加长浓缩",
+   "extra": "🔵",
+   "subsection": "7.2 点咖啡",
+   "section": "第7部分 · 🔧 万能句型速查",
+   "id": "audio_0249"
+  },
+  {
+   "ita": "Un americano, per favore",
+   "chn": "美式",
+   "extra": "🔵",
+   "subsection": "7.2 点咖啡",
+   "section": "第7部分 · 🔧 万能句型速查",
+   "id": "audio_0250"
+  },
+  {
+   "ita": "Un decaffeinato, grazie",
+   "chn": "低因",
+   "extra": "🔵",
+   "subsection": "7.2 点咖啡",
+   "section": "第7部分 · 🔧 万能句型速查",
+   "id": "audio_0251"
+  },
+  {
+   "ita": "Con poco zucchero",
+   "chn": "少糖",
+   "extra": "🔵",
+   "subsection": "7.2 点咖啡",
+   "section": "第7部分 · 🔧 万能句型速查",
+   "id": "audio_0252"
+  },
+  {
+   "ita": "Senza zucchero",
+   "chn": "不加糖",
+   "extra": "🔵",
+   "subsection": "7.2 点咖啡",
+   "section": "第7部分 · 🔧 万能句型速查",
+   "id": "audio_0253"
+  },
+  {
+   "ita": "Un bicchiere di vino rosso",
+   "chn": "一杯红酒",
+   "extra": "🟡",
+   "subsection": "7.3 点酒水",
+   "section": "第7部分 · 🔧 万能句型速查",
+   "id": "audio_0254"
+  },
+  {
+   "ita": "Una birra alla spina",
+   "chn": "一杯生啤",
+   "extra": "🟡",
+   "subsection": "7.3 点酒水",
+   "section": "第7部分 · 🔧 万能句型速查",
+   "id": "audio_0255"
+  },
+  {
+   "ita": "Un negroni, per favore",
+   "chn": "尼格罗尼",
+   "extra": "🟡",
+   "subsection": "7.3 点酒水",
+   "section": "第7部分 · 🔧 万能句型速查",
+   "id": "audio_0256"
+  },
+  {
+   "ita": "Un prosecco, grazie",
+   "chn": "普罗塞克",
+   "extra": "🟡",
+   "subsection": "7.3 点酒水",
+   "section": "第7部分 · 🔧 万能句型速查",
+   "id": "audio_0257"
+  },
+  {
+   "ita": "Con ghiaccio, per favore",
+   "chn": "加冰",
+   "extra": "🟡",
+   "subsection": "7.3 点酒水",
+   "section": "第7部分 · 🔧 万能句型速查",
+   "id": "audio_0258"
+  },
+  {
+   "ita": "Senza alcool",
+   "chn": "无酒精",
+   "extra": "🟡",
+   "subsection": "7.3 点酒水",
+   "section": "第7部分 · 🔧 万能句型速查",
+   "id": "audio_0259"
+  },
+  {
+   "ita": "Quanto costa?",
+   "chn": "多少钱？",
+   "extra": "🟠",
+   "subsection": "7.4 价格与时间",
+   "section": "第7部分 · 🔧 万能句型速查",
+   "id": "audio_0260"
+  },
+  {
+   "ita": "Quanto viene in totale?",
+   "chn": "一共多少？",
+   "extra": "🟠",
+   "subsection": "7.4 价格与时间",
+   "section": "第7部分 · 🔧 万能句型速查",
+   "id": "audio_0261"
+  },
+  {
+   "ita": "Accettate carte?",
+   "chn": "收卡吗？",
+   "extra": "🟠",
+   "subsection": "7.4 价格与时间",
+   "section": "第7部分 · 🔧 万能句型速查",
+   "id": "audio_0262"
+  },
+  {
+   "ita": "Posso pagare dopo?",
+   "chn": "能后付吗？",
+   "extra": "🟠",
+   "subsection": "7.4 价格与时间",
+   "section": "第7部分 · 🔧 万能句型速查",
+   "id": "audio_0263"
+  },
+  {
+   "ita": "C’è il coperto?",
+   "chn": "有座位费吗？",
+   "extra": "🟠",
+   "subsection": "7.4 价格与时间",
+   "section": "第7部分 · 🔧 万能句型速查",
+   "id": "audio_0264"
+  },
+  {
+   "ita": "Quanto tempo per il caffè?",
+   "chn": "咖啡要多久？",
+   "extra": "🟠",
+   "subsection": "7.4 价格与时间",
+   "section": "第7部分 · 🔧 万能句型速查",
+   "id": "audio_0265"
+  },
+  {
+   "ita": "Buonissimo, grazie",
+   "chn": "很好喝，谢谢",
+   "extra": "🔴",
+   "subsection": "7.5 满意与修改",
+   "section": "第7部分 · 🔧 万能句型速查",
+   "id": "audio_0266"
+  },
+  {
+   "ita": "Un po’ più caldo?",
+   "chn": "再热点？",
+   "extra": "🔴",
+   "subsection": "7.5 满意与修改",
+   "section": "第7部分 · 🔧 万能句型速查",
+   "id": "audio_0267"
+  },
+  {
+   "ita": "È perfetto così",
+   "chn": "这样就完美",
+   "extra": "🔴",
+   "subsection": "7.5 满意与修改",
+   "section": "第7部分 · 🔧 万能句型速查",
+   "id": "audio_0268"
+  },
+  {
+   "ita": "Mi è piaciuto molto",
+   "chn": "我很喜欢",
+   "extra": "🔴",
+   "subsection": "7.5 满意与修改",
+   "section": "第7部分 · 🔧 万能句型速查",
+   "id": "audio_0269"
+  },
+  {
+   "ita": "La prossima volta più lungo",
+   "chn": "下次更长",
+   "extra": "🔴",
+   "subsection": "7.5 满意与修改",
+   "section": "第7部分 · 🔧 万能句型速查",
+   "id": "audio_0270"
+  },
+  {
+   "ita": "Al banco è più economico",
+   "chn": "吧台更便宜",
+   "extra": "常差一半",
+   "subsection": "8.1 站与坐文化",
+   "section": "第8部分 · 🇮🇹 意大利酒吧文化贴士",
+   "id": "audio_0271"
+  },
+  {
+   "ita": "Italiani bevono in piedi",
+   "chn": "意大利人站着喝",
+   "extra": "文化",
+   "subsection": "8.1 站与坐文化",
+   "section": "第8部分 · 🇮🇹 意大利酒吧文化贴士",
+   "id": "audio_0272"
+  },
+  {
+   "ita": "Cappuccino solo al mattino",
+   "chn": "卡布仅早晨",
+   "extra": "11点后不点",
+   "subsection": "8.1 站与坐文化",
+   "section": "第8部分 · 🇮🇹 意大利酒吧文化贴士",
+   "id": "audio_0273"
+  },
+  {
+   "ita": "Dopo i pasti solo caffè",
+   "chn": "饭后只喝浓缩",
+   "extra": "digestivo",
+   "subsection": "8.1 站与坐文化",
+   "section": "第8部分 · 🇮🇹 意大利酒吧文化贴士",
+   "id": "audio_0274"
+  },
+  {
+   "ita": "Niente caffè da passeggio",
+   "chn": "没有外带杯",
+   "extra": "现喝现走",
+   "subsection": "8.1 站与坐文化",
+   "section": "第8部分 · 🇮🇹 意大利酒吧文化贴士",
+   "id": "audio_0275"
+  },
+  {
+   "ita": "La domenica mattina pieno",
+   "chn": "周日早晨爆满",
+   "extra": "colazione",
+   "subsection": "8.1 站与坐文化",
+   "section": "第8部分 · 🇮🇹 意大利酒吧文化贴士",
+   "id": "audio_0276"
+  },
+  {
+   "ita": "Caffè al banco 1-1,5€",
+   "chn": "吧台咖啡 1-1.5欧",
+   "extra": "base",
+   "subsection": "8.2 价格参考",
+   "section": "第8部分 · 🇮🇹 意大利酒吧文化贴士",
+   "id": "audio_0277"
+  },
+  {
+   "ita": "Cappuccino 1,5-2€",
+   "chn": "卡布 1.5-2欧",
+   "extra": "mattina",
+   "subsection": "8.2 价格参考",
+   "section": "第8部分 · 🇮🇹 意大利酒吧文化贴士",
+   "id": "audio_0278"
+  },
+  {
+   "ita": "Al tavolo +1-2€",
+   "chn": "坐桌加 1-2欧",
+   "extra": "servizio",
+   "subsection": "8.2 价格参考",
+   "section": "第8部分 · 🇮🇹 意大利酒吧文化贴士",
+   "id": "audio_0279"
+  },
+  {
+   "ita": "Spritz 5-8€",
+   "chn": "斯普利茨 5-8欧",
+   "extra": "aperitivo",
+   "subsection": "8.2 价格参考",
+   "section": "第8部分 · 🇮🇹 意大利酒吧文化贴士",
+   "id": "audio_0280"
+  },
+  {
+   "ita": "Cornetto 1-2€",
+   "chn": "牛角 1-2欧",
+   "extra": "colazione",
+   "subsection": "8.2 价格参考",
+   "section": "第8部分 · 🇮🇹 意大利酒吧文化贴士",
+   "id": "audio_0281"
+  },
+  {
+   "ita": "Acqua 1-2€",
+   "chn": "水 1-2欧",
+   "extra": "bottiglia",
+   "subsection": "8.2 价格参考",
+   "section": "第8部分 · 🇮🇹 意大利酒吧文化贴士",
+   "id": "audio_0282"
+  },
+  {
+   "ita": "Mancia non obbligatoria",
+   "chn": "小费非强制",
+   "extra": "意大利",
+   "subsection": "8.3 小费礼仪",
+   "section": "第8部分 · 🇮🇹 意大利酒吧文化贴士",
+   "id": "audio_0283"
+  },
+  {
+   "ita": "Arrotonda i spiccioli",
+   "chn": "凑整零钱",
+   "extra": "1-2欧",
+   "subsection": "8.3 小费礼仪",
+   "section": "第8部分 · 🇮🇹 意大利酒吧文化贴士",
+   "id": "audio_0284"
+  },
+  {
+   "ita": "Al tavolo già servito",
+   "chn": "坐桌已含服务",
+   "extra": "不再给",
+   "subsection": "8.3 小费礼仪",
+   "section": "第8部分 · 🇮🇹 意大利酒吧文化贴士",
+   "id": "audio_0285"
+  },
+  {
+   "ita": "Un grazie basta",
+   "chn": "说谢谢即可",
+   "extra": "文化",
+   "subsection": "8.3 小费礼仪",
+   "section": "第8部分 · 🇮🇹 意大利酒吧文化贴士",
+   "id": "audio_0286"
+  },
+  {
+   "ita": "Colazione = caffè + cornetto",
+   "chn": "早餐=咖啡+牛角",
+   "extra": "经典",
+   "subsection": "8.4 早餐与日常",
+   "section": "第8部分 · 🇮🇹 意大利酒吧文化贴士",
+   "id": "audio_0287"
+  },
+  {
+   "ita": "Pausa metà mattina",
+   "chn": "上午茶歇",
+   "extra": "break",
+   "subsection": "8.4 早餐与日常",
+   "section": "第8部分 · 🇮🇹 意大利酒吧文化贴士",
+   "id": "audio_0288"
+  },
+  {
+   "ita": "Aperitivo prima di cena",
+   "chn": "餐前开胃",
+   "extra": "18-20点",
+   "subsection": "8.4 早餐与日常",
+   "section": "第8部分 · 🇮🇹 意大利酒吧文化贴士",
+   "id": "audio_0289"
+  },
+  {
+   "ita": "Caffè dopo pranzo",
+   "chn": "饭后咖啡",
+   "extra": "digestione",
+   "subsection": "8.4 早餐与日常",
+   "section": "第8部分 · 🇮🇹 意大利酒吧文化贴士",
+   "id": "audio_0290"
+  },
+  {
+   "ita": "Allora",
+   "chn": "那么 / 那个",
+   "extra": "开场",
+   "subsection": "9.1 自然说话的秘诀——填充词",
+   "section": "第9部分 · 🗣️ 高频填充词与口语",
+   "id": "audio_0291"
+  },
+  {
+   "ita": "Quindi",
+   "chn": "所以",
+   "extra": "连接",
+   "subsection": "9.1 自然说话的秘诀——填充词",
+   "section": "第9部分 · 🗣️ 高频填充词与口语",
+   "id": "audio_0292"
+  },
+  {
+   "ita": "Insomma",
+   "chn": "总之",
+   "extra": "收尾",
+   "subsection": "9.1 自然说话的秘诀——填充词",
+   "section": "第9部分 · 🗣️ 高频填充词与口语",
+   "id": "audio_0293"
+  },
+  {
+   "ita": "Praticamente",
+   "chn": "其实",
+   "extra": "口语",
+   "subsection": "9.1 自然说话的秘诀——填充词",
+   "section": "第9部分 · 🗣️ 高频填充词与口语",
+   "id": "audio_0294"
+  },
+  {
+   "ita": "Cioè",
+   "chn": "也就是说",
+   "extra": "解释",
+   "subsection": "9.1 自然说话的秘诀——填充词",
+   "section": "第9部分 · 🗣️ 高频填充词与口语",
+   "id": "audio_0295"
+  },
+  {
+   "ita": "Tipo",
+   "chn": "比如",
+   "extra": "举例",
+   "subsection": "9.1 自然说话的秘诀——填充词",
+   "section": "第9部分 · 🗣️ 高频填充词与口语",
+   "id": "audio_0296"
+  },
+  {
+   "ita": "Mah",
+   "chn": "嗯…",
+   "extra": "犹豫",
+   "subsection": "9.1 自然说话的秘诀——填充词",
+   "section": "第9部分 · 🗣️ 高频填充词与口语",
+   "id": "audio_0297"
+  },
+  {
+   "ita": "Boh",
+   "chn": "不知道",
+   "extra": "随意",
+   "subsection": "9.1 自然说话的秘诀——填充词",
+   "section": "第9部分 · 🗣️ 高频填充词与口语",
+   "id": "audio_0298"
+  },
+  {
+   "ita": "Ecco",
+   "chn": "喏 / 就是",
+   "extra": "指物",
+   "subsection": "9.1 自然说话的秘诀——填充词",
+   "section": "第9部分 · 🗣️ 高频填充词与口语",
+   "id": "audio_0299"
+  },
+  {
+   "ita": "Dai",
+   "chn": "来吧",
+   "extra": "鼓励",
+   "subsection": "9.1 自然说话的秘诀——填充词",
+   "section": "第9部分 · 🗣️ 高频填充词与口语",
+   "id": "audio_0300"
+  },
+  {
+   "ita": "Senti",
+   "chn": "听我说",
+   "extra": "引起注意",
+   "subsection": "9.1 自然说话的秘诀——填充词",
+   "section": "第9部分 · 🗣️ 高频填充词与口语",
+   "id": "audio_0301"
+  },
+  {
+   "ita": "Guarda",
+   "chn": "你看",
+   "extra": "指物",
+   "subsection": "9.1 自然说话的秘诀——填充词",
+   "section": "第9部分 · 🗣️ 高频填充词与口语",
+   "id": "audio_0302"
+  },
+  {
+   "ita": "Però",
+   "chn": "不过",
+   "extra": "转折",
+   "subsection": "9.1 自然说话的秘诀——填充词",
+   "section": "第9部分 · 🗣️ 高频填充词与口语",
+   "id": "audio_0303"
+  },
+  {
+   "ita": "Comunque",
+   "chn": "反正",
+   "extra": "总结",
+   "subsection": "9.1 自然说话的秘诀——填充词",
+   "section": "第9部分 · 🗣️ 高频填充词与口语",
+   "id": "audio_0304"
+  },
+  {
+   "ita": "Magari",
+   "chn": "但愿",
+   "extra": "愿望",
+   "subsection": "9.1 自然说话的秘诀——填充词",
+   "section": "第9部分 · 🗣️ 高频填充词与口语",
+   "id": "audio_0305"
+  },
+  {
+   "ita": "Va be’",
+   "chn": "好吧",
+   "extra": "让步",
+   "subsection": "9.1 自然说话的秘诀——填充词",
+   "section": "第9部分 · 🗣️ 高频填充词与口语",
+   "id": "audio_0306"
+  },
+  {
+   "ita": "Proprio",
+   "chn": "真的",
+   "extra": "强调",
+   "subsection": "9.1 自然说话的秘诀——填充词",
+   "section": "第9部分 · 🗣️ 高频填充词与口语",
+   "id": "audio_0307"
+  },
+  {
+   "ita": "Certo",
+   "chn": "当然",
+   "extra": "肯定",
+   "subsection": "9.1 自然说话的秘诀——填充词",
+   "section": "第9部分 · 🗣️ 高频填充词与口语",
+   "id": "audio_0308"
+  },
+  {
+   "ita": "Esatto",
+   "chn": "没错",
+   "extra": "赞同",
+   "subsection": "9.1 自然说话的秘诀——填充词",
+   "section": "第9部分 · 🗣️ 高频填充词与口语",
+   "id": "audio_0309"
+  },
+  {
+   "ita": "Figurati",
+   "chn": "哪里的话",
+   "extra": "客气",
+   "subsection": "9.1 自然说话的秘诀——填充词",
+   "section": "第9部分 · 🗣️ 高频填充词与口语",
+   "id": "audio_0310"
+  },
+  {
+   "ita": "Lei / tu",
+   "chn": "您 / 你",
+   "extra": "对客用 Lei",
+   "subsection": "9.2 正式 vs 非正式",
+   "section": "第9部分 · 🗣️ 高频填充词与口语",
+   "id": "audio_0311"
+  },
+  {
+   "ita": "Vorrei / Voglio",
+   "chn": "我想（礼）/ 我要",
+   "extra": "用 Vorrei",
+   "subsection": "9.2 正式 vs 非正式",
+   "section": "第9部分 · 🗣️ 高频填充词与口语",
+   "id": "audio_0312"
+  },
+  {
+   "ita": "Desidera? / Che vuoi?",
+   "chn": "您要？/ 你要？",
+   "extra": "用 Desidera",
+   "subsection": "9.2 正式 vs 非正式",
+   "section": "第9部分 · 🗣️ 高频填充词与口语",
+   "id": "audio_0313"
+  },
+  {
+   "ita": "Si accomodi / Siediti",
+   "chn": "请坐（礼）/ 坐",
+   "extra": "用 Si accomodi",
+   "subsection": "9.2 正式 vs 非正式",
+   "section": "第9部分 · 🗣️ 高频填充词与口语",
+   "id": "audio_0314"
+  },
+  {
+   "ita": "Grazie a Lei / Grazie a te",
+   "chn": "谢您 / 谢你",
+   "extra": "对应",
+   "subsection": "9.2 正式 vs 非正式",
+   "section": "第9部分 · 🗣️ 高频填充词与口语",
+   "id": "audio_0315"
+  },
+  {
+   "ita": "Arrivederci / Ciao",
+   "chn": "再见（礼）/ 拜",
+   "extra": "用 Arrivederci",
+   "subsection": "9.2 正式 vs 非正式",
+   "section": "第9部分 · 🗣️ 高频填充词与口语",
+   "id": "audio_0316"
+  },
+  {
+   "ita": "A posto",
+   "chn": "搞定了",
+   "extra": "完成",
+   "subsection": "9.3 口语高频表达",
+   "section": "第9部分 · 🗣️ 高频填充词与口语",
+   "id": "audio_0317"
+  },
+  {
+   "ita": "Tutto a posto",
+   "chn": "都好了",
+   "extra": "收尾",
+   "subsection": "9.3 口语高频表达",
+   "section": "第9部分 · 🗣️ 高频填充词与口语",
+   "id": "audio_0318"
+  },
+  {
+   "ita": "Fai conto",
+   "chn": "你想想",
+   "extra": "打比",
+   "subsection": "9.3 口语高频表达",
+   "section": "第9部分 · 🗣️ 高频填充词与口语",
+   "id": "audio_0319"
+  },
+  {
+   "ita": "Non ti preoccupare",
+   "chn": "别担心",
+   "extra": "安抚",
+   "subsection": "9.3 口语高频表达",
+   "section": "第9部分 · 🗣️ 高频填充词与口语",
+   "id": "audio_0320"
+  },
+  {
+   "ita": "Ci siamo",
+   "chn": "成了",
+   "extra": "完成",
+   "subsection": "9.3 口语高频表达",
+   "section": "第9部分 · 🗣️ 高频填充词与口语",
+   "id": "audio_0321"
+  },
+  {
+   "ita": "Vediamo un po’",
+   "chn": "看下",
+   "extra": "检查",
+   "subsection": "9.3 口语高频表达",
+   "section": "第9部分 · 🗣️ 高频填充词与口语",
+   "id": "audio_0322"
+  },
+  {
+   "ita": "Che buono!",
+   "chn": "真好吃！",
+   "extra": "夸赞",
+   "subsection": "9.3 口语高频表达",
+   "section": "第9部分 · 🗣️ 高频填充词与口语",
+   "id": "audio_0323"
+  },
+  {
+   "ita": "Buona giornata!",
+   "chn": "祝好日子！",
+   "extra": "送客",
+   "subsection": "9.3 口语高频表达",
+   "section": "第9部分 · 🗣️ 高频填充词与口语",
+   "id": "audio_0324"
+  },
+  {
+   "ita": "Alla prossima!",
+   "chn": "下次见！",
+   "extra": "送客",
+   "subsection": "9.3 口语高频表达",
+   "section": "第9部分 · 🗣️ 高频填充词与口语",
+   "id": "audio_0325"
+  },
+  {
+   "ita": "Buona serata!",
+   "chn": "祝晚上好！",
+   "extra": "送客",
+   "subsection": "9.3 口语高频表达",
+   "section": "第9部分 · 🗣️ 高频填充词与口语",
+   "id": "audio_0326"
+  },
+  {
+   "ita": "Vorrei un caffè",
+   "chn": "我想喝咖啡",
+   "extra": "点单",
+   "subsection": "A.1 条件式——Vorrei（我想…）",
+   "section": "第10部分 · 📖 语法要点速记",
+   "id": "audio_0327"
+  },
+  {
+   "ita": "Vorrei uno spritz",
+   "chn": "我想斯普利茨",
+   "extra": "点酒",
+   "subsection": "A.1 条件式——Vorrei（我想…）",
+   "section": "第10部分 · 📖 语法要点速记",
+   "id": "audio_0328"
+  },
+  {
+   "ita": "Vorrei sedermi al tavolo",
+   "chn": "我想坐桌",
+   "extra": "入座",
+   "subsection": "A.1 条件式——Vorrei（我想…）",
+   "section": "第10部分 · 📖 语法要点速记",
+   "id": "audio_0329"
+  },
+  {
+   "ita": "Vorrei sapere il conto",
+   "chn": "我想知道账单",
+   "extra": "询问",
+   "subsection": "A.1 条件式——Vorrei（我想…）",
+   "section": "第10部分 · 📖 语法要点速记",
+   "id": "audio_0330"
+  },
+  {
+   "ita": "Si accomodi qui",
+   "chn": "请坐这边",
+   "extra": "引导",
+   "subsection": "A.2 命令式——叮嘱与指示",
+   "section": "第10部分 · 📖 语法要点速记",
+   "id": "audio_0331"
+  },
+  {
+   "ita": "Mi dia la carta",
+   "chn": "请给卡",
+   "extra": "付款",
+   "subsection": "A.2 命令式——叮嘱与指示",
+   "section": "第10部分 · 📖 语法要点速记",
+   "id": "audio_0332"
+  },
+  {
+   "ita": "Resti pure seduto",
+   "chn": "您坐着",
+   "extra": "客气",
+   "subsection": "A.2 命令式——叮嘱与指示",
+   "section": "第10部分 · 📖 语法要点速记",
+   "id": "audio_0333"
+  },
+  {
+   "ita": "Vada pure",
+   "chn": "您先请",
+   "extra": "礼让",
+   "subsection": "A.2 命令式——叮嘱与指示",
+   "section": "第10部分 · 📖 语法要点速记",
+   "id": "audio_0334"
+  },
+  {
+   "ita": "Sedersi",
+   "chn": "坐下",
+   "extra": "mi siedo",
+   "subsection": "A.3 反身动词——吧台常用",
+   "section": "第10部分 · 📖 语法要点速记",
+   "id": "audio_0335"
+  },
+  {
+   "ita": "Alzarsi",
+   "chn": "起身",
+   "extra": "si alzi",
+   "subsection": "A.3 反身动词——吧台常用",
+   "section": "第10部分 · 📖 语法要点速记",
+   "id": "audio_0336"
+  },
+  {
+   "ita": "Lavarsi le mani",
+   "chn": "洗手",
+   "extra": "mi lavo",
+   "subsection": "A.3 反身动词——吧台常用",
+   "section": "第10部分 · 📖 语法要点速记",
+   "id": "audio_0337"
+  },
+  {
+   "ita": "Rilassarsi",
+   "chn": "放松",
+   "extra": "si rilassi",
+   "subsection": "A.3 反身动词——吧台常用",
+   "section": "第10部分 · 📖 语法要点速记",
+   "id": "audio_0338"
+  },
+  {
+   "ita": "Vestirsi",
+   "chn": "穿衣",
+   "extra": "语境",
+   "subsection": "A.3 反身动词——吧台常用",
+   "section": "第10部分 · 📖 语法要点速记",
+   "id": "audio_0339"
+  },
+  {
+   "ita": "Faccio il caffè",
+   "chn": "我煮咖啡",
+   "extra": "fare+inf",
+   "subsection": "A.4 使役动词——Fare + 动词",
+   "section": "第10部分 · 📖 语法要点速记",
+   "id": "audio_0340"
+  },
+  {
+   "ita": "Le faccio vedere",
+   "chn": "我给您看",
+   "extra": "fare+vedere",
+   "subsection": "A.4 使役动词——Fare + 动词",
+   "section": "第10部分 · 📖 语法要点速记",
+   "id": "audio_0341"
+  },
+  {
+   "ita": "Faccio scaldare",
+   "chn": "我加热",
+   "extra": "fare+inf",
+   "subsection": "A.4 使役动词——Fare + 动词",
+   "section": "第10部分 · 📖 语法要点速记",
+   "id": "audio_0342"
+  },
+  {
+   "ita": "Fai shine",
+   "chn": "你照灯/摇",
+   "extra": "口语",
+   "subsection": "A.4 使役动词——Fare + 动词",
+   "section": "第10部分 · 📖 语法要点速记",
+   "id": "audio_0343"
+  },
+  {
+   "ita": "Facciamo dietro?",
+   "chn": "我们做…?",
+   "extra": "语境",
+   "subsection": "A.4 使役动词——Fare + 动词",
+   "section": "第10部分 · 📖 语法要点速记",
+   "id": "audio_0344"
+  }
+ ]
+}
